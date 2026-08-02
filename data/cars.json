@@ -1,0 +1,8894 @@
+{
+ "meta": {
+  "game": "Forza Horizon 6",
+  "schema": 1,
+  "created": "2026-08-02",
+  "players": {
+   "p1": "Tim",
+   "p2": "Kumpel"
+  },
+  "note": "Vorbefuellt am 2026-08-02 aus der AR12-Community-Liste (Stand vor Release, ~450 von 635 Autos). Quelle je Auto im Feld 'source'."
+ },
+ "cars": [
+  {
+   "id": "1968-abarth-abarth-595-esseesse",
+   "make": "Abarth",
+   "model": "Abarth 595 esseesse",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1980-abarth-abarth-fiat-131",
+   "make": "Abarth",
+   "model": "Abarth Fiat 131",
+   "year": 1980,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-abarth-abarth-695-biposto",
+   "make": "Abarth",
+   "model": "Abarth 695 Biposto",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2001-acura-acura-integra-type-r",
+   "make": "Acura",
+   "model": "Acura Integra Type-R",
+   "year": 2001,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2002-acura-acura-rsx-type-s",
+   "make": "Acura",
+   "model": "Acura RSX Type S",
+   "year": 2002,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-acura-acura-nsx-type-s",
+   "make": "Acura",
+   "model": "Acura NSX Type S",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-acura-acura-integra-a-spec",
+   "make": "Acura",
+   "model": "Acura Integra A-Spec",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-alfa-romeo-alfa-romeo-giulia-sprint-gta-stradale",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo Giulia Sprint GTA Stradale",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-alfa-romeo-alfa-romeo-giulia-tz2",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo Giulia TZ2",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1968-alfa-romeo-alfa-romeo-33-stradale",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo 33 Stradale",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-alfa-romeo-alfa-romeo-se-048sp",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo SE 048SP",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-alfa-romeo-alfa-romeo-155-q4",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo 155 Q4",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-alfa-romeo-alfa-romeo-4c",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo 4C",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-alfa-romeo-alfa-romeo-giulia-quadrifoglio",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo Giulia Quadrifoglio",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-alfa-romeo-alfa-romeo-giulia-gtam",
+   "make": "Alfa Romeo",
+   "model": "Alfa Romeo Giulia GTAm",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-alumicraft-alumicraft-class-10-race-car",
+   "make": "Alumicraft",
+   "model": "Alumicraft Class 10 Race Car",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-alumicraft-alumicraft-122-class-1-buggy",
+   "make": "Alumicraft",
+   "model": "Alumicraft #122 Class 1 Buggy",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-alumicraft-alumicraft-6165-trick-truck",
+   "make": "Alumicraft",
+   "model": "Alumicraft #6165 Trick Truck",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2554-amg-transport-dynamics-amg-transport-dynamics-m12s-warthog-cst",
+   "make": "AMG Transport Dynamics",
+   "model": "AMG Transport Dynamics M12S Warthog CST",
+   "year": 2554,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-ariel-ariel-atom-500-v8",
+   "make": "Ariel",
+   "model": "Ariel Atom 500 V8",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-ariel-ariel-nomad",
+   "make": "Ariel",
+   "model": "Ariel Nomad",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1964-aston-martin-aston-martin-db5",
+   "make": "Aston Martin",
+   "model": "Aston Martin DB5",
+   "year": 1964,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-aston-martin-aston-martin-db11",
+   "make": "Aston Martin",
+   "model": "Aston Martin DB11",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-aston-martin-aston-martin-vulcan-amr-pro",
+   "make": "Aston Martin",
+   "model": "Aston Martin Vulcan AMR Pro",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-aston-martin-aston-martin-dbs-superleggera",
+   "make": "Aston Martin",
+   "model": "Aston Martin DBS Superleggera",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-aston-martin-aston-martin-valhalla-concept-car",
+   "make": "Aston Martin",
+   "model": "Aston Martin Valhalla Concept Car",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-aston-martin-aston-martin-vantage",
+   "make": "Aston Martin",
+   "model": "Aston Martin Vantage",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-aston-martin-aston-martin-dbx",
+   "make": "Aston Martin",
+   "model": "Aston Martin DBX",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-aston-martin-aston-martin-valkyrie-amr-pro",
+   "make": "Aston Martin",
+   "model": "Aston Martin Valkyrie AMR Pro",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-aston-martin-aston-martin-valkyrie",
+   "make": "Aston Martin",
+   "model": "Aston Martin Valkyrie",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1983-audi-audi-sport-quattro",
+   "make": "Audi",
+   "model": "Audi Sport quattro",
+   "year": 1983,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-audi-audi-2-audi-sport-quattro-s1",
+   "make": "Audi",
+   "model": "Audi #2 Audi Sport quattro S1",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2001-audi-audi-rs-4-avant",
+   "make": "Audi",
+   "model": "Audi RS 4 Avant",
+   "year": 2001,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-audi-audi-rs-6",
+   "make": "Audi",
+   "model": "Audi RS 6",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2006-audi-audi-rs-4",
+   "make": "Audi",
+   "model": "Audi RS 4",
+   "year": 2006,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-audi-audi-rs-6",
+   "make": "Audi",
+   "model": "Audi RS 6",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-audi-audi-r8-lms",
+   "make": "Audi",
+   "model": "Audi R8 LMS",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-audi-audi-tt-rs-coupe",
+   "make": "Audi",
+   "model": "Audi TT RS Coupé",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-audi-audi-rs-3-sportback",
+   "make": "Audi",
+   "model": "Audi RS 3 Sportback",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-audi-audi-rs-5-coupe",
+   "make": "Audi",
+   "model": "Audi RS 5 Coupé",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-audi-audi-r8-coupe-v10-plus",
+   "make": "Audi",
+   "model": "Audi R8 Coupé V10 plus",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-audi-audi-rs-4-avant",
+   "make": "Audi",
+   "model": "Audi RS 4 Avant",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-audi-audi-rs-7-sportback",
+   "make": "Audi",
+   "model": "Audi RS 7 Sportback",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-audi-audi-rs-6-avant",
+   "make": "Audi",
+   "model": "Audi RS 6 Avant",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-audi-audi-s1",
+   "make": "Audi",
+   "model": "Audi S1",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-audi-audi-r8-v10-plus",
+   "make": "Audi",
+   "model": "Audi R8 V10 plus",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-audi-audi-rs-4-avant",
+   "make": "Audi",
+   "model": "Audi RS 4 Avant",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-audi-audi-r8-v10-performance",
+   "make": "Audi",
+   "model": "Audi R8 V10 Performance",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-audi-audi-rs-3-sedan",
+   "make": "Audi",
+   "model": "Audi RS 3 Sedan",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-audi-audi-rs-6-avant",
+   "make": "Audi",
+   "model": "Audi RS 6 Avant",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-audi-audi-rs-7-sportback",
+   "make": "Audi",
+   "model": "Audi RS 7 Sportback",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-audi-audi-rs-e-tron-gt",
+   "make": "Audi",
+   "model": "Audi RS e-tron GT",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-autozam-autozam-az-1",
+   "make": "Autozam",
+   "model": "Autozam AZ-1",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-bac-bac-mono",
+   "make": "BAC",
+   "model": "BAC Mono",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-bentley-bentley-bentayga",
+   "make": "Bentley",
+   "model": "Bentley Bentayga",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-bentley-bentley-continental-gt-convertible",
+   "make": "Bentley",
+   "model": "Bentley Continental GT Convertible",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1957-bmw-bmw-isetta-300-export",
+   "make": "BMW",
+   "model": "BMW Isetta 300 Export",
+   "year": 1957,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-bmw-bmw-2002-turbo",
+   "make": "BMW",
+   "model": "BMW 2002 Turbo",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1981-bmw-bmw-m1",
+   "make": "BMW",
+   "model": "BMW M1",
+   "year": 1981,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1988-bmw-bmw-m3",
+   "make": "BMW",
+   "model": "BMW M3",
+   "year": 1988,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1988-bmw-bmw-m5",
+   "make": "BMW",
+   "model": "BMW M5",
+   "year": 1988,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-bmw-bmw-850csi",
+   "make": "BMW",
+   "model": "BMW 850CSi",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-bmw-bmw-m5",
+   "make": "BMW",
+   "model": "BMW M5",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-bmw-bmw-m3",
+   "make": "BMW",
+   "model": "BMW M3",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-bmw-bmw-m5",
+   "make": "BMW",
+   "model": "BMW M5",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-bmw-bmw-m3",
+   "make": "BMW",
+   "model": "BMW M3",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-bmw-bmw-m3",
+   "make": "BMW",
+   "model": "BMW M3",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-bmw-bmw-z4-m-coupe",
+   "make": "BMW",
+   "model": "BMW Z4 M Coupé",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-bmw-bmw-m5",
+   "make": "BMW",
+   "model": "BMW M5",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-bmw-bmw-m3-gts",
+   "make": "BMW",
+   "model": "BMW M3 GTS",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-bmw-bmw-x5-m",
+   "make": "BMW",
+   "model": "BMW X5 M",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-bmw-bmw-m5",
+   "make": "BMW",
+   "model": "BMW M5",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-bmw-bmw-m4-coupe",
+   "make": "BMW",
+   "model": "BMW M4 Coupé",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-bmw-bmw-i8",
+   "make": "BMW",
+   "model": "BMW i8",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-bmw-bmw-m4-gts",
+   "make": "BMW",
+   "model": "BMW M4 GTS",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-bmw-bmw-z4-roadster",
+   "make": "BMW",
+   "model": "BMW Z4 Roadster",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-bmw-bmw-m2-competition-coupe",
+   "make": "BMW",
+   "model": "BMW M2 Competition Coupé",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-bmw-bmw-m8-competition-coupe",
+   "make": "BMW",
+   "model": "BMW M8 Competition Coupe",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-bmw-bmw-m4-competition-coupe",
+   "make": "BMW",
+   "model": "BMW M4 Competition Coupé",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-bmw-bmw-m4-competition-coupe-welcome-pack",
+   "make": "BMW",
+   "model": "BMW M4 Competition Coupé 'Welcome Pack'",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-bmw-bmw-m5-cs",
+   "make": "BMW",
+   "model": "BMW M5 CS",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-bmw-bmw-ix-xdrive50",
+   "make": "BMW",
+   "model": "BMW iX xDrive50",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-bmw-bmw-m2",
+   "make": "BMW",
+   "model": "BMW M2",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-bmw-bmw-m2-forza-edition",
+   "make": "BMW",
+   "model": "BMW M2 Forza Edition",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-bmw-bmw-x6-m-competition",
+   "make": "BMW",
+   "model": "BMW X6 M Competition",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-buick-buick-regal-gnx",
+   "make": "Buick",
+   "model": "Buick Regal GNX",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-cadillac-cadillac-ats-v",
+   "make": "Cadillac",
+   "model": "Cadillac ATS-V",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-cadillac-cadillac-cts-v-sedan",
+   "make": "Cadillac",
+   "model": "Cadillac CTS-V Sedan",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-cadillac-cadillac-ct4-v-blackwing",
+   "make": "Cadillac",
+   "model": "Cadillac CT4-V Blackwing",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-cadillac-cadillac-ct5-v-blackwing",
+   "make": "Cadillac",
+   "model": "Cadillac CT5-V Blackwing",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-can-am-can-am-maverick-x-rs-turbo-r",
+   "make": "Can-Am",
+   "model": "Can-Am Maverick X RS Turbo R",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-casey-currie-casey-currie-motorsports-4402-ultra-4-trophy-jeep",
+   "make": "Casey Currie",
+   "model": "Casey Currie Motorsports #4402 Ultra 4 'Trophy Jeep'",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1953-chevrolet-chevrolet-corvette",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette",
+   "year": 1953,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1955-chevrolet-chevrolet-150-utility-sedan",
+   "make": "Chevrolet",
+   "model": "Chevrolet 150 Utility Sedan",
+   "year": 1955,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1957-chevrolet-chevrolet-bel-air",
+   "make": "Chevrolet",
+   "model": "Chevrolet Bel Air",
+   "year": 1957,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1960-chevrolet-chevrolet-corvette",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette",
+   "year": 1960,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1964-chevrolet-chevrolet-impala-super-sport-409",
+   "make": "Chevrolet",
+   "model": "Chevrolet Impala Super Sport 409",
+   "year": 1964,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1967-chevrolet-chevrolet-corvette-stingray-427",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette Stingray 427",
+   "year": 1967,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-chevrolet-chevrolet-camaro-super-sport-coupe",
+   "make": "Chevrolet",
+   "model": "Chevrolet Camaro Super Sport Coupe",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-chevrolet-chevrolet-nova-super-sport-396",
+   "make": "Chevrolet",
+   "model": "Chevrolet Nova Super Sport 396",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-chevrolet-chevrolet-chevelle-super-sport-454",
+   "make": "Chevrolet",
+   "model": "Chevrolet Chevelle Super Sport 454",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-chevrolet-chevrolet-el-camino-super-sport-454",
+   "make": "Chevrolet",
+   "model": "Chevrolet El Camino Super Sport 454",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1972-chevrolet-chevrolet-k10-custom",
+   "make": "Chevrolet",
+   "model": "Chevrolet K10 Custom",
+   "year": 1972,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1979-chevrolet-chevrolet-camaro-z28",
+   "make": "Chevrolet",
+   "model": "Chevrolet Camaro Z28",
+   "year": 1979,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1988-chevrolet-chevrolet-monte-carlo-super-sport",
+   "make": "Chevrolet",
+   "model": "Chevrolet Monte Carlo Super Sport",
+   "year": 1988,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-chevrolet-chevrolet-corvette-zr-1",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette ZR-1",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1996-chevrolet-chevrolet-impala-super-sport",
+   "make": "Chevrolet",
+   "model": "Chevrolet Impala Super Sport",
+   "year": 1996,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2002-chevrolet-chevrolet-corvette-z06",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette Z06",
+   "year": 2002,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-chevrolet-chevrolet-corvette-zr1",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette ZR1",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-chevrolet-chevrolet-camaro-z-28",
+   "make": "Chevrolet",
+   "model": "Chevrolet Camaro Z/28",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-chevrolet-chevrolet-corvette-z06",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette Z06",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-chevrolet-chevrolet-camaro-zl1",
+   "make": "Chevrolet",
+   "model": "Chevrolet Camaro ZL1",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-chevrolet-chevrolet-camaro-zl1-1le",
+   "make": "Chevrolet",
+   "model": "Chevrolet Camaro ZL1 1LE",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-chevrolet-chevrolet-corvette-zr1",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette ZR1",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-chevrolet-chevrolet-corvette-stingray-coupe",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette Stingray Coupé",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-chevrolet-chevrolet-silverado-lt-trail-boss",
+   "make": "Chevrolet",
+   "model": "Chevrolet Silverado LT Trail Boss",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-chevrolet-chevrolet-corvette-z06",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette Z06",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-chevrolet-chevrolet-corvette-e-ray",
+   "make": "Chevrolet",
+   "model": "Chevrolet Corvette E-Ray",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-datsun-datsun-510",
+   "make": "Datsun",
+   "model": "Datsun 510",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-deberti-deberti-wrangler-unlimited",
+   "make": "DeBerti",
+   "model": "DeBerti Wrangler Unlimited",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-deberti-deberti-chevrolet-silverado-1500-drift-truck",
+   "make": "DeBerti",
+   "model": "DeBerti Chevrolet Silverado 1500 Drift Truck",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-deberti-deberti-ford-super-duty-f-250-lariat-transformer",
+   "make": "DeBerti",
+   "model": "DeBerti Ford Super Duty F-250 Lariat \"Transformer\"",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-deberti-deberti-toyota-tacoma-trd-the-performance-truck",
+   "make": "DeBerti",
+   "model": "DeBerti Toyota Tacoma TRD \"The Performance Truck\"",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1982-delorean-delorean-dmc-12",
+   "make": "DeLorean",
+   "model": "DeLorean DMC-12",
+   "year": 1982,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1968-dodge-dodge-dart-hemi-super-stock",
+   "make": "Dodge",
+   "model": "Dodge Dart HEMI Super Stock",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-dodge-dodge-charger-daytona-hemi",
+   "make": "Dodge",
+   "model": "Dodge Charger Daytona HEMI",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-dodge-dodge-charger-r-t",
+   "make": "Dodge",
+   "model": "Dodge Charger R/T",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-dodge-dodge-challenger-r-t",
+   "make": "Dodge",
+   "model": "Dodge Challenger R/T",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-dodge-dodge-coronet-super-bee",
+   "make": "Dodge",
+   "model": "Dodge Coronet Super Bee",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1999-dodge-dodge-viper-gts-acr",
+   "make": "Dodge",
+   "model": "Dodge Viper GTS ACR",
+   "year": 1999,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1999-dodge-dodge-viper-gts-acr-forza-edition",
+   "make": "Dodge",
+   "model": "Dodge Viper GTS ACR Forza Edition",
+   "year": 1999,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-dodge-dodge-viper-srt10-acr",
+   "make": "Dodge",
+   "model": "Dodge Viper SRT10 ACR",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-dodge-dodge-srt-viper-gts",
+   "make": "Dodge",
+   "model": "Dodge SRT Viper GTS",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-dodge-dodge-challenger-srt-hellcat",
+   "make": "Dodge",
+   "model": "Dodge Challenger SRT Hellcat",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-dodge-dodge-charger-srt-hellcat",
+   "make": "Dodge",
+   "model": "Dodge Charger SRT Hellcat",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-dodge-dodge-viper-acr",
+   "make": "Dodge",
+   "model": "Dodge Viper ACR",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-dodge-dodge-challenger-srt-demon",
+   "make": "Dodge",
+   "model": "Dodge Challenger SRT Demon",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-dodge-dodge-durango-srt-hellcat",
+   "make": "Dodge",
+   "model": "Dodge Durango SRT Hellcat",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-dodge-dodge-challenger-srt-super-stock",
+   "make": "Dodge",
+   "model": "Dodge Challenger SRT Super Stock",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1962-ferrari-ferrari-250-gt-berlinetta-lusso",
+   "make": "Ferrari",
+   "model": "Ferrari 250 GT Berlinetta Lusso",
+   "year": 1962,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1967-ferrari-ferrari-275-gtb4-spider",
+   "make": "Ferrari",
+   "model": "Ferrari 275 GTB4 Spider",
+   "year": 1967,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-ferrari-ferrari-dino-246-gt",
+   "make": "Ferrari",
+   "model": "Ferrari Dino 246 GT",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1984-ferrari-ferrari-288-gto",
+   "make": "Ferrari",
+   "model": "Ferrari 288 GTO",
+   "year": 1984,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-ferrari-ferrari-f40",
+   "make": "Ferrari",
+   "model": "Ferrari F40",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-ferrari-ferrari-f40-competizione",
+   "make": "Ferrari",
+   "model": "Ferrari F40 Competizione",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-ferrari-ferrari-512-tr",
+   "make": "Ferrari",
+   "model": "Ferrari 512 TR",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-ferrari-ferrari-f355-berlinetta",
+   "make": "Ferrari",
+   "model": "Ferrari F355 Berlinetta",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-ferrari-ferrari-f50",
+   "make": "Ferrari",
+   "model": "Ferrari F50",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1996-ferrari-ferrari-f50-gt",
+   "make": "Ferrari",
+   "model": "Ferrari F50 GT",
+   "year": 1996,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-ferrari-ferrari-fxx",
+   "make": "Ferrari",
+   "model": "Ferrari FXX",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2007-ferrari-ferrari-430-scuderia",
+   "make": "Ferrari",
+   "model": "Ferrari 430 Scuderia",
+   "year": 2007,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-ferrari-ferrari-458-italia",
+   "make": "Ferrari",
+   "model": "Ferrari 458 Italia",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-ferrari-ferrari-599xx",
+   "make": "Ferrari",
+   "model": "Ferrari 599XX",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-ferrari-ferrari-458-speciale",
+   "make": "Ferrari",
+   "model": "Ferrari 458 Speciale",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-ferrari-ferrari-laferrari",
+   "make": "Ferrari",
+   "model": "Ferrari LaFerrari",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-ferrari-ferrari-j50",
+   "make": "Ferrari",
+   "model": "Ferrari J50",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-ferrari-ferrari-fxx-k-evo",
+   "make": "Ferrari",
+   "model": "Ferrari FXX-K Evo",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-ferrari-ferrari-fxx-k-evo-welcome-pack",
+   "make": "Ferrari",
+   "model": "Ferrari FXX-K Evo 'Welcome Pack'",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-ferrari-ferrari-portofino",
+   "make": "Ferrari",
+   "model": "Ferrari Portofino",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-ferrari-ferrari-488-pista",
+   "make": "Ferrari",
+   "model": "Ferrari 488 Pista",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-ferrari-ferrari-monza-sp2",
+   "make": "Ferrari",
+   "model": "Ferrari Monza SP2",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-ferrari-ferrari-296-gtb",
+   "make": "Ferrari",
+   "model": "Ferrari 296 GTB",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2025-ferrari-ferrari-f80",
+   "make": "Ferrari",
+   "model": "Ferrari F80",
+   "year": 2025,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1932-ford-ford-de-luxe-five-window-coupe",
+   "make": "Ford",
+   "model": "Ford De Luxe Five-Window Coupe",
+   "year": 1932,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-ford-ford-mustang-gt-coupe",
+   "make": "Ford",
+   "model": "Ford Mustang GT Coupe",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1966-ford-ford-2-gt40-mk-ii-le-mans",
+   "make": "Ford",
+   "model": "Ford #2 GT40 Mk II Le Mans",
+   "year": 1966,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1968-ford-ford-mustang-2-2-fastback",
+   "make": "Ford",
+   "model": "Ford Mustang 2+2 Fastback",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1968-ford-ford-mustang-2-2-fastback-forza-edition",
+   "make": "Ford",
+   "model": "Ford Mustang 2+2 Fastback Forza Edition",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-ford-ford-mustang-boss-302",
+   "make": "Ford",
+   "model": "Ford Mustang Boss 302",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-ford-ford-capri-rs3100",
+   "make": "Ford",
+   "model": "Ford Capri RS3100",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-ford-ford-xb-falcon-gt",
+   "make": "Ford",
+   "model": "Ford XB Falcon GT",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1977-ford-ford-5-escort-rs1800-mk-ii",
+   "make": "Ford",
+   "model": "Ford #5 Escort RS1800 MK II",
+   "year": 1977,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-ford-ford-rs200-evolution",
+   "make": "Ford",
+   "model": "Ford RS200 Evolution",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-ford-ford-f-150-xlt-lariat",
+   "make": "Ford",
+   "model": "Ford F-150 XLT Lariat",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-ford-ford-f-150-xlt-lariat-forza-edition",
+   "make": "Ford",
+   "model": "Ford F-150 XLT Lariat Forza Edition",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-ford-ford-sierra-cosworth-rs500",
+   "make": "Ford",
+   "model": "Ford Sierra Cosworth RS500",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-ford-ford-escort-rs-cosworth",
+   "make": "Ford",
+   "model": "Ford Escort RS Cosworth",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-ford-ford-svt-cobra-r",
+   "make": "Ford",
+   "model": "Ford SVT Cobra R",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-ford-ford-supervan-3",
+   "make": "Ford",
+   "model": "Ford Supervan 3",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1999-ford-ford-racing-puma",
+   "make": "Ford",
+   "model": "Ford Racing Puma",
+   "year": 1999,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-ford-ford-f-150-svt-lightning",
+   "make": "Ford",
+   "model": "Ford F-150 SVT Lightning",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-ford-ford-focus-rs",
+   "make": "Ford",
+   "model": "Ford Focus RS",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-ford-ford-gt",
+   "make": "Ford",
+   "model": "Ford GT",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-ford-ford-focus-rs",
+   "make": "Ford",
+   "model": "Ford Focus RS",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-ford-ford-crown-victoria-police-interceptor",
+   "make": "Ford",
+   "model": "Ford Crown Victoria Police Interceptor",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-ford-ford-transit-supersportvan",
+   "make": "Ford",
+   "model": "Ford Transit SuperSportVan",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-ford-ford-mustang-shelby-gt500",
+   "make": "Ford",
+   "model": "Ford Mustang Shelby GT500",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-ford-ford-11-rockstar-f-150-trophy-truck",
+   "make": "Ford",
+   "model": "Ford #11 Rockstar F-150 Trophy Truck",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-ford-ford-ranger-t6-rally-raid",
+   "make": "Ford",
+   "model": "Ford Ranger T6 Rally Raid",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-ford-ford-mustang-shelby-gt350r",
+   "make": "Ford",
+   "model": "Ford Mustang Shelby GT350R",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-ford-ford-14-rahal-letterman-lanigan-racing-grc-fiesta",
+   "make": "Ford",
+   "model": "Ford #14 Rahal Letterman Lanigan Racing GRC Fiesta",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-ford-ford-25-brocky-ultra4-bronco-rtr",
+   "make": "Ford",
+   "model": "Ford #25 \"Brocky\" Ultra4 Bronco RTR",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-ford-ford-focus-rs",
+   "make": "Ford",
+   "model": "Ford Focus RS",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-ford-ford-gt",
+   "make": "Ford",
+   "model": "Ford GT",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-ford-ford-mustang-rtr-spec-5",
+   "make": "Ford",
+   "model": "Ford Mustang RTR Spec 5",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-ford-ford-2069-ford-performance-bronco-r",
+   "make": "Ford",
+   "model": "Ford #2069 Ford Performance Bronco R",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-ford-ford-mustang-shelby-gt500",
+   "make": "Ford",
+   "model": "Ford Mustang Shelby GT500",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-ford-ford-super-duty-f-450-drw-platinum",
+   "make": "Ford",
+   "model": "Ford Super Duty F-450 DRW Platinum",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-ford-ford-bronco-raptor",
+   "make": "Ford",
+   "model": "Ford Bronco Raptor",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-ford-ford-f-150-lightning-platinum",
+   "make": "Ford",
+   "model": "Ford F-150 Lightning Platinum",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-ford-ford-focus-st",
+   "make": "Ford",
+   "model": "Ford Focus ST",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-ford-ford-f-150-raptor-r",
+   "make": "Ford",
+   "model": "Ford F-150 Raptor R",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-ford-ford-f-150-raptor-r-welcome-pack",
+   "make": "Ford",
+   "model": "Ford F-150 Raptor R 'Welcome Pack'",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-ford-ford-fiesta-st",
+   "make": "Ford",
+   "model": "Ford Fiesta ST",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-ford-ford-mustang-dark-horse",
+   "make": "Ford",
+   "model": "Ford Mustang Dark Horse",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-ford-ford-mustang-gt",
+   "make": "Ford",
+   "model": "Ford Mustang GT",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-formula-drift-formula-drift-98-bmw-325i",
+   "make": "Formula Drift",
+   "model": "Formula Drift #98 BMW 325i",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-formula-drift-formula-drift-34-toyota-supra-mkiv",
+   "make": "Formula Drift",
+   "model": "Formula Drift #34 Toyota Supra MkIV",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-formula-drift-formula-drift-777-nissan-240sx",
+   "make": "Formula Drift",
+   "model": "Formula Drift #777 Nissan 240SX",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2006-formula-drift-formula-drift-43-dodge-viper-srt10",
+   "make": "Formula Drift",
+   "model": "Formula Drift #43 Dodge Viper SRT10",
+   "year": 2006,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2007-formula-drift-formula-drift-117-599-gtb-fiorano",
+   "make": "Formula Drift",
+   "model": "Formula Drift #117 599 GTB Fiorano",
+   "year": 2007,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-formula-drift-formula-drift-99-mazda-rx-8",
+   "make": "Formula Drift",
+   "model": "Formula Drift #99 Mazda RX-8",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-formula-drift-formula-drift-777-chevrolet-corvette",
+   "make": "Formula Drift",
+   "model": "Formula Drift #777 Chevrolet Corvette",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-formula-drift-formula-drift-13-ford-mustang",
+   "make": "Formula Drift",
+   "model": "Formula Drift #13 Ford Mustang",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-formula-drift-formula-drift-530-hsv-maloo-gen-f",
+   "make": "Formula Drift",
+   "model": "Formula Drift #530 HSV Maloo Gen-F",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-formula-drift-formula-drift-411-toyota-corolla-hatchback",
+   "make": "Formula Drift",
+   "model": "Formula Drift #411 Toyota Corolla Hatchback",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-formula-drift-formula-drift-91-bmw-m2",
+   "make": "Formula Drift",
+   "model": "Formula Drift #91 BMW M2",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-formula-drift-formula-drift-151-toyota-gr-supra",
+   "make": "Formula Drift",
+   "model": "Formula Drift #151 Toyota GR Supra",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-formula-drift-formula-drift-64-forsberg-racing-nissan-z",
+   "make": "Formula Drift",
+   "model": "Formula Drift #64 Forsberg Racing Nissan Z",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-funco-funco-motorsports-f9",
+   "make": "Funco",
+   "model": "Funco Motorsports F9",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-gmc-gmc-jimmy",
+   "make": "GMC",
+   "model": "GMC Jimmy",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-gmc-gmc-syclone",
+   "make": "GMC",
+   "model": "GMC Syclone",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-gmc-gmc-typhoon",
+   "make": "GMC",
+   "model": "GMC Typhoon",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-gmc-gmc-hummer-ev-pickup",
+   "make": "GMC",
+   "model": "GMC HUMMER EV Pickup",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-gordon-murray-gordon-murray-automotive-t-50",
+   "make": "Gordon Murray",
+   "model": "Gordon Murray Automotive T.50",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2025-gr-gr-gt-prototype",
+   "make": "GR",
+   "model": "GR GT Prototype",
+   "year": 2025,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-hennessey-hennessey-venom-gt",
+   "make": "Hennessey",
+   "model": "Hennessey Venom GT",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-hennessey-hennessey-venom-f5",
+   "make": "Hennessey",
+   "model": "Hennessey Venom F5",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1977-holden-holden-torana-a9x",
+   "make": "Holden",
+   "model": "Holden Torana A9X",
+   "year": 1977,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-honda-honda-s800",
+   "make": "Honda",
+   "model": "Honda S800",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1974-honda-honda-civic-rs",
+   "make": "Honda",
+   "model": "Honda Civic RS",
+   "year": 1974,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1984-honda-honda-city-e-ii",
+   "make": "Honda",
+   "model": "Honda City E II",
+   "year": 1984,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1984-honda-honda-civic-crx-mugen",
+   "make": "Honda",
+   "model": "Honda Civic CRX Mugen",
+   "year": 1984,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-honda-honda-civic-si",
+   "make": "Honda",
+   "model": "Honda Civic Si",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-honda-honda-19-crx-wtac",
+   "make": "Honda",
+   "model": "Honda #19 CRX WTAC",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-honda-honda-beat",
+   "make": "Honda",
+   "model": "Honda Beat",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-honda-honda-cr-x-sir",
+   "make": "Honda",
+   "model": "Honda CR-X SiR",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-honda-honda-21-hardrace-jdmyard-civic-wtac",
+   "make": "Honda",
+   "model": "Honda #21 Hardrace/JDMYard Civic WTAC",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-honda-honda-nsx-r",
+   "make": "Honda",
+   "model": "Honda NSX-R",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-honda-honda-acty",
+   "make": "Honda",
+   "model": "Honda Acty",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-honda-honda-acty-rakuraku-express",
+   "make": "Honda",
+   "model": "Honda Acty 'Rakuraku Express'",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-honda-honda-prelude-si",
+   "make": "Honda",
+   "model": "Honda Prelude Si",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type R",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2001-honda-honda-33-integra-wtac",
+   "make": "Honda",
+   "model": "Honda #33 Integra WTAC",
+   "year": 2001,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-honda-honda-s2000",
+   "make": "Honda",
+   "model": "Honda S2000",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-honda-honda-s2000-touge-edition",
+   "make": "Honda",
+   "model": "Honda S2000 Touge Edition",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-honda-honda-52-evasive-motorsports-s2000-wtac",
+   "make": "Honda",
+   "model": "Honda #52 Evasive Motorsports S2000 WTAC",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type R",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-honda-honda-nsx-r",
+   "make": "Honda",
+   "model": "Honda NSX-R",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-honda-honda-nsx-r-gt",
+   "make": "Honda",
+   "model": "Honda NSX-R GT",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2007-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type-R",
+   "year": 2007,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type R",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-honda-honda-ridgeline-baja-trophy-truck",
+   "make": "Honda",
+   "model": "Honda Ridgeline Baja Trophy Truck",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type R",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-honda-honda-e",
+   "make": "Honda",
+   "model": "Honda e",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-honda-honda-civic-type-r",
+   "make": "Honda",
+   "model": "Honda Civic Type R",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-hsv-hsv-gen-f-gts",
+   "make": "HSV",
+   "model": "HSV GEN-F GTS",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-hyundai-hyundai-veloster-n",
+   "make": "Hyundai",
+   "model": "Hyundai Veloster N",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-hyundai-hyundai-i30-n",
+   "make": "Hyundai",
+   "model": "Hyundai i30 N",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-hyundai-hyundai-i20-n",
+   "make": "Hyundai",
+   "model": "Hyundai i20 N",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-hyundai-hyundai-n-vision-74",
+   "make": "Hyundai",
+   "model": "Hyundai N Vision 74",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-hyundai-hyundai-ioniq-5-n",
+   "make": "Hyundai",
+   "model": "Hyundai IONIQ 5 N",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1956-jaguar-jaguar-d-type",
+   "make": "Jaguar",
+   "model": "Jaguar D-Type",
+   "year": 1956,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1961-jaguar-jaguar-e-type",
+   "make": "Jaguar",
+   "model": "Jaguar E-Type",
+   "year": 1961,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1964-jaguar-jaguar-lightweight-e-type",
+   "make": "Jaguar",
+   "model": "Jaguar Lightweight E-Type",
+   "year": 1964,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-jaguar-jaguar-xj220",
+   "make": "Jaguar",
+   "model": "Jaguar XJ220",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-jaguar-jaguar-xj220-twr",
+   "make": "Jaguar",
+   "model": "Jaguar XJ220 TWR",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-jaguar-jaguar-c-x75",
+   "make": "Jaguar",
+   "model": "Jaguar C-X75",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-jeep-jeep-wrangler-rubicon",
+   "make": "Jeep",
+   "model": "Jeep Wrangler Rubicon",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-jeep-jeep-trailcat",
+   "make": "Jeep",
+   "model": "Jeep Trailcat",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-jeep-jeep-grand-cherokee-trackhawk",
+   "make": "Jeep",
+   "model": "Jeep Grand Cherokee Trackhawk",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-jeep-jeep-gladiator-rubicon-jt",
+   "make": "Jeep",
+   "model": "Jeep Gladiator Rubicon (JT)",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-jimco-jimco-240-fastball-racing-spec-trophy-truck",
+   "make": "Jimco",
+   "model": "Jimco #240 Fastball Racing Spec Trophy Truck",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-jimco-jimco-179-hammerhead-class-1",
+   "make": "Jimco",
+   "model": "Jimco #179 Hammerhead Class 1",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-koenigsegg-koenigsegg-ccgt",
+   "make": "Koenigsegg",
+   "model": "Koenigsegg CCGT",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-koenigsegg-koenigsegg-agera",
+   "make": "Koenigsegg",
+   "model": "Koenigsegg Agera",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-koenigsegg-koenigsegg-one-1",
+   "make": "Koenigsegg",
+   "model": "Koenigsegg One:1",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-koenigsegg-koenigsegg-regera",
+   "make": "Koenigsegg",
+   "model": "Koenigsegg Regera",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-koenigsegg-koenigsegg-jesko",
+   "make": "Koenigsegg",
+   "model": "Koenigsegg Jesko",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-ktm-ktm-x-bow-gt4",
+   "make": "KTM",
+   "model": "KTM X-Bow GT4",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1967-lamborghini-lamborghini-miura-p400",
+   "make": "Lamborghini",
+   "model": "Lamborghini Miura P400",
+   "year": 1967,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1988-lamborghini-lamborghini-countach-lp5000-qv",
+   "make": "Lamborghini",
+   "model": "Lamborghini Countach LP5000 QV",
+   "year": 1988,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-lamborghini-lamborghini-diablo-sv",
+   "make": "Lamborghini",
+   "model": "Lamborghini Diablo SV",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1999-lamborghini-lamborghini-diablo-gtr",
+   "make": "Lamborghini",
+   "model": "Lamborghini Diablo GTR",
+   "year": 1999,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-lamborghini-lamborghini-murcielago-lp-670-4-sv",
+   "make": "Lamborghini",
+   "model": "Lamborghini Murciélago LP 670-4 SV",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-lamborghini-lamborghini-aventador-lp-700-4",
+   "make": "Lamborghini",
+   "model": "Lamborghini Aventador LP 700-4",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-lamborghini-lamborghini-gallardo-lp-570-4-spyder-performante",
+   "make": "Lamborghini",
+   "model": "Lamborghini Gallardo LP 570-4 Spyder Performante",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-lamborghini-lamborghini-veneno",
+   "make": "Lamborghini",
+   "model": "Lamborghini Veneno",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-lamborghini-lamborghini-huracan-lp-610-4",
+   "make": "Lamborghini",
+   "model": "Lamborghini Huracán LP 610-4",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-lamborghini-lamborghini-centenario-lp-770-4",
+   "make": "Lamborghini",
+   "model": "Lamborghini Centenario LP 770-4",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-lamborghini-lamborghini-aventador-svj",
+   "make": "Lamborghini",
+   "model": "Lamborghini Aventador SVJ",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-lamborghini-lamborghini-urus",
+   "make": "Lamborghini",
+   "model": "Lamborghini Urus",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-lamborghini-lamborghini-essenza-scv12",
+   "make": "Lamborghini",
+   "model": "Lamborghini Essenza SCV12",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-lamborghini-lamborghini-huracan-sto",
+   "make": "Lamborghini",
+   "model": "Lamborghini Huracán STO",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-lamborghini-lamborghini-countach-lpi-800-4",
+   "make": "Lamborghini",
+   "model": "Lamborghini Countach LPI 800-4",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-lamborghini-lamborghini-huracan-sterrato",
+   "make": "Lamborghini",
+   "model": "Lamborghini Huracán Sterrato",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-lamborghini-lamborghini-huracan-tecnica",
+   "make": "Lamborghini",
+   "model": "Lamborghini Huracán Tecnica",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-lamborghini-lamborghini-revuelto",
+   "make": "Lamborghini",
+   "model": "Lamborghini Revuelto",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1974-lancia-lancia-stratos-hf-stradale",
+   "make": "Lancia",
+   "model": "Lancia Stratos HF Stradale",
+   "year": 1974,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-lancia-lancia-delta-s4",
+   "make": "Lancia",
+   "model": "Lancia Delta S4",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-lancia-lancia-delta-hf-integrale-evo",
+   "make": "Lancia",
+   "model": "Lancia Delta HF Integrale Evo",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-land-rover-land-rover-range-rover-sport-svr",
+   "make": "Land Rover",
+   "model": "Land Rover Range Rover Sport SVR",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-land-rover-land-rover-defender-110-x",
+   "make": "Land Rover",
+   "model": "Land Rover Defender 110 X",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-lexus-lexus-lfa",
+   "make": "Lexus",
+   "model": "Lexus LFA",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-lexus-lexus-lfa-forza-edition",
+   "make": "Lexus",
+   "model": "Lexus LFA Forza Edition",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-lexus-lexus-rc-f",
+   "make": "Lexus",
+   "model": "Lexus RC F",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-lexus-lexus-lc-500",
+   "make": "Lexus",
+   "model": "Lexus LC 500",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1962-lincoln-lincoln-continental",
+   "make": "Lincoln",
+   "model": "Lincoln Continental",
+   "year": 1962,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-lotus-lotus-elise-gt1",
+   "make": "Lotus",
+   "model": "Lotus Elise GT1",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1999-lotus-lotus-elise-series-1-sport-190",
+   "make": "Lotus",
+   "model": "Lotus Elise Series 1 Sport 190",
+   "year": 1999,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-lotus-lotus-exige-cup-430",
+   "make": "Lotus",
+   "model": "Lotus Exige Cup 430",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-lotus-lotus-scura-motorsport-exige-wtac",
+   "make": "Lotus",
+   "model": "Lotus Scura Motorsport Exige WTAC",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-lotus-lotus-evija",
+   "make": "Lotus",
+   "model": "Lotus Evija",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-lotus-lotus-evija-forza-edition",
+   "make": "Lotus",
+   "model": "Lotus Evija Forza Edition",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-lotus-lotus-emira",
+   "make": "Lotus",
+   "model": "Lotus Emira",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-lucid-lucid-air-sapphire",
+   "make": "Lucid",
+   "model": "Lucid Air Sapphire",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-maserati-maserati-ghibli-cup",
+   "make": "Maserati",
+   "model": "Maserati Ghibli Cup",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-maserati-maserati-mc20",
+   "make": "Maserati",
+   "model": "Maserati MC20",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1972-mazda-mazda-cosmo-110s-series-ii",
+   "make": "Mazda",
+   "model": "Mazda Cosmo 110S Series II",
+   "year": 1972,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-mazda-mazda-rx-3",
+   "make": "Mazda",
+   "model": "Mazda RX-3",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-mazda-mazda-rx-3-forza-edition",
+   "make": "Mazda",
+   "model": "Mazda RX-3 Forza Edition",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-mazda-mazda-rx-7-gsl-se",
+   "make": "Mazda",
+   "model": "Mazda RX-7 GSL-SE",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-mazda-mazda-savanna-rx-7",
+   "make": "Mazda",
+   "model": "Mazda Savanna RX-7",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-mazda-mazda-mx-5-miata",
+   "make": "Mazda",
+   "model": "Mazda MX-5 Miata",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-mazda-mazda-55-mazda-787b",
+   "make": "Mazda",
+   "model": "Mazda #55 Mazda 787B",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-mazda-mazda-rx-7-type-r",
+   "make": "Mazda",
+   "model": "Mazda RX-7 Type R",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-mazda-mazda-mx-5-miata",
+   "make": "Mazda",
+   "model": "Mazda MX-5 Miata",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-mazda-mazda-mx-5-miata-forza-edition",
+   "make": "Mazda",
+   "model": "Mazda MX-5 Miata Forza Edition",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-mazda-mazda-mazdaspeed-mx-5",
+   "make": "Mazda",
+   "model": "Mazda Mazdaspeed MX-5",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-mazda-mazda-furai",
+   "make": "Mazda",
+   "model": "Mazda Furai",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-mazda-mazda-mazdaspeed-3",
+   "make": "Mazda",
+   "model": "Mazda Mazdaspeed 3",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-mazda-mazda-rx-8-r3",
+   "make": "Mazda",
+   "model": "Mazda RX-8 R3",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-mazda-mazda-mx-5",
+   "make": "Mazda",
+   "model": "Mazda MX-5",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-mazda-mazda-mx-5",
+   "make": "Mazda",
+   "model": "Mazda MX-5",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-mazda-mazda-mx-5-cup",
+   "make": "Mazda",
+   "model": "Mazda MX-5 Cup",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-mazda-mazda-mx-5-miata-rf",
+   "make": "Mazda",
+   "model": "Mazda MX-5 Miata RF",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-mclaren-mclaren-f1",
+   "make": "McLaren",
+   "model": "McLaren F1",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-mclaren-mclaren-f1-gt",
+   "make": "McLaren",
+   "model": "McLaren F1 GT",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-mclaren-mclaren-12c-coupe",
+   "make": "McLaren",
+   "model": "McLaren 12C Coupé",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-mclaren-mclaren-p1",
+   "make": "McLaren",
+   "model": "McLaren P1",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-mclaren-mclaren-570s-coupe",
+   "make": "McLaren",
+   "model": "McLaren 570S Coupé",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-mclaren-mclaren-600lt-coupe",
+   "make": "McLaren",
+   "model": "McLaren 600LT Coupé",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-mclaren-mclaren-speedtail",
+   "make": "McLaren",
+   "model": "McLaren Speedtail",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mclaren-mclaren-620r",
+   "make": "McLaren",
+   "model": "McLaren 620R",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mclaren-mclaren-765lt",
+   "make": "McLaren",
+   "model": "McLaren 765LT",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mclaren-mclaren-sabre",
+   "make": "McLaren",
+   "model": "McLaren Sabre",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-mclaren-mclaren-artura",
+   "make": "McLaren",
+   "model": "McLaren Artura",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-mercedes-amg-mercedes-amg-c-63-s-coupe",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG C 63 S Coupé",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-mercedes-amg-mercedes-amg-e-63-s",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG E 63 S",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-mercedes-amg-mercedes-amg-gt-4-door-coupe",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG GT 4-Door Coupé",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mercedes-amg-mercedes-amg-gt-black-series",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG GT Black Series",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mercedes-amg-mercedes-amg-gt-black-series-welcome-pack",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG GT Black Series 'Welcome Pack'",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mercedes-amg-mercedes-amg-sl-63",
+   "make": "Mercedes-AMG",
+   "model": "Mercedes-AMG SL 63",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1954-mercedes-benz-mercedes-benz-300-sl-coupe",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz 300 SL Coupé",
+   "year": 1954,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-mercedes-benz-mercedes-benz-amg-hammer-coupe",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz AMG Hammer Coupe",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-mercedes-benz-mercedes-benz-190e-2-5-16-evolution-ii",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz 190E 2.5-16 Evolution II",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-mercedes-benz-mercedes-benz-190e-2-5-16-evolution-ii-forza-edition",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz 190E 2.5-16 Evolution II Forza Edition",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-mercedes-benz-mercedes-benz-sl-65-amg-black-series",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz SL 65 AMG Black Series",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-mercedes-benz-mercedes-benz-c-63-amg-coupe-black-series",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz C 63 AMG Coupé Black Series",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-mercedes-benz-mercedes-benz-a-45-amg",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz A 45 AMG",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-mercedes-benz-mercedes-benz-g-65-amg",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz G 65 AMG",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-mercedes-benz-mercedes-benz-g-65-amg-6x6",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz G 65 AMG 6x6",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-mercedes-benz-mercedes-benz-unimog-u5023",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz Unimog U5023",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-mercedes-benz-mercedes-benz-x-class",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz X-Class",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-mercedes-benz-mercedes-benz-slc-43-final-edition",
+   "make": "Mercedes-Benz",
+   "model": "Mercedes-Benz SLC 43 Final Edition",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1971-meyers-meyers-manx",
+   "make": "Meyers",
+   "model": "Meyers Manx",
+   "year": 1971,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-meyers-meyers-manx-2-0-ev",
+   "make": "Meyers",
+   "model": "Meyers Manx 2.0 EV",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-mg-mg-metro-6r4",
+   "make": "MG",
+   "model": "MG Metro 6R4",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-mini-mini-cooper-s",
+   "make": "MINI",
+   "model": "MINI Cooper S",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-mini-mini-john-cooper-works-gp",
+   "make": "MINI",
+   "model": "MINI John Cooper Works GP",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-mini-mini-x-raid-john-cooper-works-buggy",
+   "make": "MINI",
+   "model": "MINI X-Raid John Cooper Works Buggy",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-mini-mini-john-cooper-works-gp",
+   "make": "MINI",
+   "model": "MINI John Cooper Works GP",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-mitsubishi-mitsubishi-269-attacking-the-clock-racing-minicab-time-attack",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi #269 Attacking the Clock Racing Minicab Time Attack",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-mitsubishi-mitsubishi-galant-vr-4",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Galant VR-4",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-mitsubishi-mitsubishi-eclipse-gsx",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Eclipse GSX",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-mitsubishi-mitsubishi-lancer-evolution-iii-gsr",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution III GSR",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-mitsubishi-mitsubishi-montero-exceed-2800-td",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Montero Exceed 2800 TD",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-mitsubishi-mitsubishi-gto",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi GTO",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-mitsubishi-mitsubishi-montero-evolution",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Montero Evolution",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2001-mitsubishi-mitsubishi-lancer-evolution-vi-gsr-tm-edition",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution VI GSR TM Edition",
+   "year": 2001,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-mitsubishi-mitsubishi-lancer-evolution-viii-mr",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution VIII MR",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-mitsubishi-mitsubishi-lancer-evolution-viii-mr-welcome-pack",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution VIII MR 'Welcome Pack'",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-mitsubishi-mitsubishi-1-sierra-sierra-enterprises-lancer-evolution-time-attack",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi #1 Sierra Sierra Enterprises Lancer Evolution Time Attack",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2006-mitsubishi-mitsubishi-lancer-evolution-ix-mr",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution IX MR",
+   "year": 2006,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-mitsubishi-mitsubishi-lancer-evolution-x-gsr",
+   "make": "Mitsubishi",
+   "model": "Mitsubishi Lancer Evolution X GSR",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-nissan-nissan-fairlady-z-432",
+   "make": "Nissan",
+   "model": "Nissan Fairlady Z 432",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1971-nissan-nissan-skyline-2000gt-r",
+   "make": "Nissan",
+   "model": "Nissan Skyline 2000GT-R",
+   "year": 1971,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-nissan-nissan-skyline-h-t-2000gt-r",
+   "make": "Nissan",
+   "model": "Nissan Skyline H/T 2000GT-R",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1983-nissan-nissan-11-tomica-skyline-turbo-super-silhouette",
+   "make": "Nissan",
+   "model": "Nissan #11 Tomica Skyline Turbo Super Silhouette",
+   "year": 1983,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-nissan-nissan-safari-turbo",
+   "make": "Nissan",
+   "model": "Nissan Safari Turbo",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-nissan-nissan-be-1",
+   "make": "Nissan",
+   "model": "Nissan Be-1",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-nissan-nissan-skyline-gts-r-hr31",
+   "make": "Nissan",
+   "model": "Nissan Skyline GTS-R (HR31)",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-nissan-nissan-pao",
+   "make": "Nissan",
+   "model": "Nissan PAO",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-nissan-nissan-s-cargo",
+   "make": "Nissan",
+   "model": "Nissan S-Cargo",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-nissan-nissan-s-cargo-forza-edition",
+   "make": "Nissan",
+   "model": "Nissan S-Cargo Forza Edition",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-nissan-nissan-silvia-k-s",
+   "make": "Nissan",
+   "model": "Nissan Silvia K's",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-nissan-nissan-pulsar-gti-r",
+   "make": "Nissan",
+   "model": "Nissan Pulsar GTI-R",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-nissan-nissan-figaro",
+   "make": "Nissan",
+   "model": "Nissan Figaro",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-nissan-nissan-skyline-gt-r",
+   "make": "Nissan",
+   "model": "Nissan Skyline GT-R",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-nissan-nissan-32-skyline-wtac-xtreme-gtr",
+   "make": "Nissan",
+   "model": "Nissan #32 Skyline WTAC 'Xtreme GTR'",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-nissan-nissan-240sx",
+   "make": "Nissan",
+   "model": "Nissan 240SX",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-nissan-nissan-skyline-gt-r-v-spec",
+   "make": "Nissan",
+   "model": "Nissan Skyline GT-R V-Spec",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-nissan-nissan-fairlady-z-version-s-twin-turbo",
+   "make": "Nissan",
+   "model": "Nissan Fairlady Z Version S Twin Turbo",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-nissan-nissan-silvia-k-s",
+   "make": "Nissan",
+   "model": "Nissan Silvia K's",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-nissan-nissan-gloria-gran-turismo",
+   "make": "Nissan",
+   "model": "Nissan Gloria Gran Turismo",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-nissan-nissan-nismo-gt-r-lm",
+   "make": "Nissan",
+   "model": "Nissan Nismo GT-R LM",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-nissan-nissan-skyline-gt-r-v-spec",
+   "make": "Nissan",
+   "model": "Nissan Skyline GT-R V-Spec",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-nissan-nissan-stagea-rs-four-v",
+   "make": "Nissan",
+   "model": "Nissan Stagea RS Four V",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1998-nissan-nissan-23-pennzoil-nismo-skyline-gt-r",
+   "make": "Nissan",
+   "model": "Nissan #23 Pennzoil Nismo Skyline GT-R",
+   "year": 1998,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1998-nissan-nissan-silvia-k-s-aero",
+   "make": "Nissan",
+   "model": "Nissan Silvia K's Aero",
+   "year": 1998,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2000-nissan-nissan-36-silvia-wtac",
+   "make": "Nissan",
+   "model": "Nissan #36 Silvia WTAC",
+   "year": 2000,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2000-nissan-nissan-skyline-gt-r-v-spec-ii",
+   "make": "Nissan",
+   "model": "Nissan Skyline GT-R V-Spec II",
+   "year": 2000,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2002-nissan-nissan-silvia-spec-r",
+   "make": "Nissan",
+   "model": "Nissan Silvia Spec-R",
+   "year": 2002,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-nissan-nissan-fairlady-z",
+   "make": "Nissan",
+   "model": "Nissan Fairlady Z",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-nissan-nissan-370z",
+   "make": "Nissan",
+   "model": "Nissan 370Z",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-nissan-nissan-gt-r-black-edition-r35",
+   "make": "Nissan",
+   "model": "Nissan GT-R Black Edition (R35)",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-nissan-nissan-gt-r-black-edition-r35-forza-edition",
+   "make": "Nissan",
+   "model": "Nissan GT-R Black Edition (R35) Forza Edition",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-nissan-nissan-gt-r-black-edition-r35-touge-edition",
+   "make": "Nissan",
+   "model": "Nissan GT-R Black Edition (R35) Touge Edition",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-nissan-nissan-gt-r-r35",
+   "make": "Nissan",
+   "model": "Nissan GT-R (R35)",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-nissan-nissan-370z-nismo",
+   "make": "Nissan",
+   "model": "Nissan 370Z NISMO",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-nissan-nissan-gt-r-nismo-r35",
+   "make": "Nissan",
+   "model": "Nissan GT-R NISMO (R35)",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-nissan-nissan-gt-r-nismo",
+   "make": "Nissan",
+   "model": "Nissan GT-R NISMO",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-nissan-nissan-z-nismo",
+   "make": "Nissan",
+   "model": "Nissan Z NISMO",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-noble-noble-m600",
+   "make": "Noble",
+   "model": "Noble M600",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1984-opel-opel-manta-400",
+   "make": "Opel",
+   "model": "Opel Manta 400",
+   "year": 1984,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2009-pagani-pagani-zonda-cinque-roadster",
+   "make": "Pagani",
+   "model": "Pagani Zonda Cinque Roadster",
+   "year": 2009,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-pagani-pagani-huayra-bc-coupe",
+   "make": "Pagani",
+   "model": "Pagani Huayra BC Coupe",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-pagani-pagani-huayra-r",
+   "make": "Pagani",
+   "model": "Pagani Huayra R",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1962-peel-peel-p50",
+   "make": "Peel",
+   "model": "Peel P50",
+   "year": 1962,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1962-peel-peel-p50-trolli-edition",
+   "make": "Peel",
+   "model": "Peel P50 Trolli Edition",
+   "year": 1962,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-penhall-penhall-the-cholla",
+   "make": "Penhall",
+   "model": "Penhall The Cholla",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1984-peugeot-peugeot-205-turbo-16",
+   "make": "Peugeot",
+   "model": "Peugeot 205 Turbo 16",
+   "year": 1984,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-peugeot-peugeot-205-rallye",
+   "make": "Peugeot",
+   "model": "Peugeot 205 Rallye",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2007-peugeot-peugeot-207-super-2000",
+   "make": "Peugeot",
+   "model": "Peugeot 207 Super 2000",
+   "year": 2007,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1958-plymouth-plymouth-fury",
+   "make": "Plymouth",
+   "model": "Plymouth Fury",
+   "year": 1958,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1968-plymouth-plymouth-barracuda-formula-s",
+   "make": "Plymouth",
+   "model": "Plymouth Barracuda Formula-S",
+   "year": 1968,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1971-plymouth-plymouth-cuda-426-hemi",
+   "make": "Plymouth",
+   "model": "Plymouth Cuda 426 Hemi",
+   "year": 1971,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-polaris-polaris-rzr-pro-xp-ultimate",
+   "make": "Polaris",
+   "model": "Polaris RZR Pro XP Ultimate",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-polaris-polaris-rzr-pro-xp-factory-racing-limited-edition",
+   "make": "Polaris",
+   "model": "Polaris RZR Pro XP Factory Racing Limited Edition",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1977-pontiac-pontiac-firebird-trans-am",
+   "make": "Pontiac",
+   "model": "Pontiac Firebird Trans Am",
+   "year": 1977,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1987-pontiac-pontiac-firebird-trans-am-gta",
+   "make": "Pontiac",
+   "model": "Pontiac Firebird Trans Am GTA",
+   "year": 1987,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1970-porsche-porsche-3-917-lh",
+   "make": "Porsche",
+   "model": "Porsche #3 917 LH",
+   "year": 1970,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1973-porsche-porsche-911-carrera-rs",
+   "make": "Porsche",
+   "model": "Porsche 911 Carrera RS",
+   "year": 1973,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1982-porsche-porsche-911-turbo-3-3",
+   "make": "Porsche",
+   "model": "Porsche 911 Turbo 3.3",
+   "year": 1982,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1986-porsche-porsche-185-959-prodrive-rally-raid",
+   "make": "Porsche",
+   "model": "Porsche #185 959 Prodrive Rally Raid",
+   "year": 1986,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-porsche-porsche-928-gts",
+   "make": "Porsche",
+   "model": "Porsche 928 GTS",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-porsche-porsche-968-turbo-s",
+   "make": "Porsche",
+   "model": "Porsche 968 Turbo S",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-porsche-porsche-911-gt2",
+   "make": "Porsche",
+   "model": "Porsche 911 GT2",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-porsche-porsche-911-gt1-strassenversion",
+   "make": "Porsche",
+   "model": "Porsche 911 GT1 Strassenversion",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-porsche-porsche-carrera-gt",
+   "make": "Porsche",
+   "model": "Porsche Carrera GT",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-porsche-porsche-911-gt3",
+   "make": "Porsche",
+   "model": "Porsche 911 GT3",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2012-porsche-porsche-911-gt3-rs-4-0",
+   "make": "Porsche",
+   "model": "Porsche 911 GT3 RS 4.0",
+   "year": 2012,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-porsche-porsche-918-spyder",
+   "make": "Porsche",
+   "model": "Porsche 918 Spyder",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-porsche-porsche-718-cayman-gts",
+   "make": "Porsche",
+   "model": "Porsche 718 Cayman GTS",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-porsche-porsche-macan-lpr-rally-raid",
+   "make": "Porsche",
+   "model": "Porsche Macan LPR Rally Raid",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-porsche-porsche-70-porsche-motorsport-935",
+   "make": "Porsche",
+   "model": "Porsche #70 Porsche Motorsport 935",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-porsche-porsche-911-carrera-s",
+   "make": "Porsche",
+   "model": "Porsche 911 Carrera S",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-porsche-porsche-911-gt3-rs",
+   "make": "Porsche",
+   "model": "Porsche 911 GT3 RS",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-porsche-porsche-911-gt3",
+   "make": "Porsche",
+   "model": "Porsche 911 GT3",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-porsche-porsche-mission-r",
+   "make": "Porsche",
+   "model": "Porsche Mission R",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-porsche-porsche-718-cayman-gt4-rs",
+   "make": "Porsche",
+   "model": "Porsche 718 Cayman GT4 RS",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-porsche-porsche-911-gt3-rs",
+   "make": "Porsche",
+   "model": "Porsche 911 GT3 RS",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-porsche-porsche-911-rallye",
+   "make": "Porsche",
+   "model": "Porsche 911 Rallye",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-porsche-porsche-911-turbo-s",
+   "make": "Porsche",
+   "model": "Porsche 911 Turbo S",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-radical-radical-rxc-turbo",
+   "make": "Radical",
+   "model": "Radical RXC Turbo",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2024-ram-ram-1500-trx",
+   "make": "Ram",
+   "model": "Ram 1500 TRX",
+   "year": 2024,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1972-reliant-reliant-supervan-iii",
+   "make": "Reliant",
+   "model": "Reliant Supervan III",
+   "year": 1972,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1967-renault-renault-8-gordini",
+   "make": "Renault",
+   "model": "Renault 8 Gordini",
+   "year": 1967,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1980-renault-renault-5-turbo",
+   "make": "Renault",
+   "model": "Renault 5 Turbo",
+   "year": 1980,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-renault-renault-clio-williams",
+   "make": "Renault",
+   "model": "Renault Clio Williams",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-renault-renault-megane-r26-r",
+   "make": "Renault",
+   "model": "Renault Megane R26.R",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-renault-renault-megane-rs-250",
+   "make": "Renault",
+   "model": "Renault Megane RS 250",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-renault-renault-megane-r-s",
+   "make": "Renault",
+   "model": "Renault Mégane R.S.",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-rivian-rivian-r1t",
+   "make": "Rivian",
+   "model": "Rivian R1T",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-rj-anderson-rj-anderson-37-polaris-rzr-rockstar-energy-pro-2-truck",
+   "make": "RJ Anderson",
+   "model": "RJ Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-rj-anderson-rj-anderson-37-polaris-rzr-pro-4-truck",
+   "make": "RJ Anderson",
+   "model": "RJ Anderson #37 Polaris RZR Pro 4 Truck",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-saleen-saleen-s7-lm",
+   "make": "Saleen",
+   "model": "Saleen S7 LM",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-schuppan-schuppan-962cr",
+   "make": "Schuppan",
+   "model": "Schuppan 962CR",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-shelby-shelby-cobra-427-s-c",
+   "make": "Shelby",
+   "model": "Shelby Cobra 427 S/C",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-shelby-shelby-cobra-daytona-coupe",
+   "make": "Shelby",
+   "model": "Shelby Cobra Daytona Coupé",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-sierra-cars-sierra-cars-23-yokohama-alpha",
+   "make": "SIERRA Cars",
+   "model": "SIERRA Cars #23 Yokohama Alpha",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-sierra-cars-sierra-cars-700r",
+   "make": "SIERRA Cars",
+   "model": "SIERRA Cars 700R",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-sierra-cars-sierra-cars-rx3",
+   "make": "SIERRA Cars",
+   "model": "SIERRA Cars RX3",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1980-subaru-subaru-brat-gl",
+   "make": "Subaru",
+   "model": "Subaru BRAT GL",
+   "year": 1980,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1990-subaru-subaru-legacy-rs",
+   "make": "Subaru",
+   "model": "Subaru Legacy RS",
+   "year": 1990,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-subaru-subaru-vivio-rx-r",
+   "make": "Subaru",
+   "model": "Subaru Vivio RX-R",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-subaru-subaru-vivio-rx-r-forza-edition",
+   "make": "Subaru",
+   "model": "Subaru Vivio RX-R Forza Edition",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1996-subaru-subaru-svx",
+   "make": "Subaru",
+   "model": "Subaru SVX",
+   "year": 1996,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1998-subaru-subaru-impreza-22b-sti-version",
+   "make": "Subaru",
+   "model": "Subaru Impreza 22B-STi Version",
+   "year": 1998,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2004-subaru-subaru-impreza-wrx-sti",
+   "make": "Subaru",
+   "model": "Subaru Impreza WRX STi",
+   "year": 2004,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-subaru-subaru-impreza-wrx-sti",
+   "make": "Subaru",
+   "model": "Subaru Impreza WRX STi",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-subaru-subaru-legacy-b4-2-0-gt",
+   "make": "Subaru",
+   "model": "Subaru Legacy B4 2.0 GT",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2008-subaru-subaru-impreza-wrx-sti",
+   "make": "Subaru",
+   "model": "Subaru Impreza WRX STI",
+   "year": 2008,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-subaru-subaru-wrx-sti",
+   "make": "Subaru",
+   "model": "Subaru WRX STI",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-subaru-subaru-brz",
+   "make": "Subaru",
+   "model": "Subaru BRZ",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2015-subaru-subaru-wrx-sti",
+   "make": "Subaru",
+   "model": "Subaru WRX STI",
+   "year": 2015,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-subaru-subaru-wrx-sti-arx-supercar",
+   "make": "Subaru",
+   "model": "Subaru WRX STI ARX Supercar",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-subaru-subaru-sti-s209",
+   "make": "Subaru",
+   "model": "Subaru STI S209",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-subaru-subaru-brz",
+   "make": "Subaru",
+   "model": "Subaru BRZ",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-subaru-subaru-brz-forza-edition",
+   "make": "Subaru",
+   "model": "Subaru BRZ Forza Edition",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-subaru-subaru-wrx",
+   "make": "Subaru",
+   "model": "Subaru WRX",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-toyota-toyota-sports-800",
+   "make": "Toyota",
+   "model": "Toyota Sports 800",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1965-toyota-toyota-sports-800-fanta-edition",
+   "make": "Toyota",
+   "model": "Toyota Sports 800 Fanta Edition",
+   "year": 1965,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-toyota-toyota-2000gt",
+   "make": "Toyota",
+   "model": "Toyota 2000GT",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1974-toyota-toyota-corolla-sr5",
+   "make": "Toyota",
+   "model": "Toyota Corolla SR5",
+   "year": 1974,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1979-toyota-toyota-fj40",
+   "make": "Toyota",
+   "model": "Toyota FJ40",
+   "year": 1979,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-toyota-toyota-sprinter-trueno-gt-apex",
+   "make": "Toyota",
+   "model": "Toyota Sprinter Trueno GT Apex",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-toyota-toyota-sprinter-trueno-gt-apex-forza-edition",
+   "make": "Toyota",
+   "model": "Toyota Sprinter Trueno GT Apex Forza Edition",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1985-toyota-toyota-sprinter-trueno-gt-apex-touge-edition",
+   "make": "Toyota",
+   "model": "Toyota Sprinter Trueno GT Apex Touge Edition",
+   "year": 1985,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1989-toyota-toyota-mr2-sc",
+   "make": "Toyota",
+   "model": "Toyota MR2 SC",
+   "year": 1989,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-toyota-toyota-chaser-gt-twin-turbo",
+   "make": "Toyota",
+   "model": "Toyota Chaser GT Twin Turbo",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1991-toyota-toyota-sera",
+   "make": "Toyota",
+   "model": "Toyota Sera",
+   "year": 1991,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-toyota-toyota-celica-gt-four-rc-st185",
+   "make": "Toyota",
+   "model": "Toyota Celica GT-Four RC ST185",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-toyota-toyota-supra-2-0-gt",
+   "make": "Toyota",
+   "model": "Toyota Supra 2.0 GT",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1993-toyota-toyota-1-baja-t100-truck",
+   "make": "Toyota",
+   "model": "Toyota #1 Baja T100 Truck",
+   "year": 1993,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1994-toyota-toyota-celica-gt-four-st205",
+   "make": "Toyota",
+   "model": "Toyota Celica GT-Four ST205",
+   "year": 1994,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-toyota-toyota-j-j-motorsport-supra-wtac",
+   "make": "Toyota",
+   "model": "Toyota J&J Motorsport Supra WTAC",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-toyota-toyota-mr2-gt",
+   "make": "Toyota",
+   "model": "Toyota MR2 GT",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-toyota-toyota-chaser-2-5-tourer-v",
+   "make": "Toyota",
+   "model": "Toyota Chaser 2.5 Tourer V",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1997-toyota-toyota-soarer-2-5-gt-t",
+   "make": "Toyota",
+   "model": "Toyota Soarer 2.5 GT-T",
+   "year": 1997,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1998-toyota-toyota-supra-rz",
+   "make": "Toyota",
+   "model": "Toyota Supra RZ",
+   "year": 1998,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2003-toyota-toyota-celica-sport-specialty-ii",
+   "make": "Toyota",
+   "model": "Toyota Celica Sport Specialty II",
+   "year": 2003,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-toyota-toyota-crown-super-deluxe-taxi",
+   "make": "Toyota",
+   "model": "Toyota Crown Super Deluxe Taxi",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-toyota-toyota-86",
+   "make": "Toyota",
+   "model": "Toyota 86",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-toyota-toyota-86-stories",
+   "make": "Toyota",
+   "model": "Toyota 86 'Stories'",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2016-toyota-toyota-land-cruiser-arctic-trucks-at37",
+   "make": "Toyota",
+   "model": "Toyota Land Cruiser Arctic Trucks AT37",
+   "year": 2016,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-toyota-toyota-jpn-taxi",
+   "make": "Toyota",
+   "model": "Toyota JPN Taxi",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-toyota-toyota-4runner-trd-pro",
+   "make": "Toyota",
+   "model": "Toyota 4Runner TRD Pro",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-toyota-toyota-tacoma-trd-pro",
+   "make": "Toyota",
+   "model": "Toyota Tacoma TRD Pro",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-toyota-toyota-tacoma-trd-pro-forza-edition",
+   "make": "Toyota",
+   "model": "Toyota Tacoma TRD Pro Forza Edition",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2020-toyota-toyota-gr-supra",
+   "make": "Toyota",
+   "model": "Toyota GR Supra",
+   "year": 2020,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-toyota-toyota-gr-yaris",
+   "make": "Toyota",
+   "model": "Toyota GR Yaris",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-toyota-toyota-gr86",
+   "make": "Toyota",
+   "model": "Toyota GR86",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2023-toyota-toyota-camry-trd",
+   "make": "Toyota",
+   "model": "Toyota Camry TRD",
+   "year": 2023,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2025-toyota-toyota-land-cruiser",
+   "make": "Toyota",
+   "model": "Toyota Land Cruiser",
+   "year": 2025,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2005-tvr-tvr-sagaris",
+   "make": "TVR",
+   "model": "TVR Sagaris",
+   "year": 2005,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2018-tvr-tvr-griffith",
+   "make": "TVR",
+   "model": "TVR Griffith",
+   "year": 2018,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1963-volkswagen-volkswagen-beetle",
+   "make": "Volkswagen",
+   "model": "Volkswagen Beetle",
+   "year": 1963,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1963-volkswagen-volkswagen-type-2-de-luxe",
+   "make": "Volkswagen",
+   "model": "Volkswagen Type 2 De Luxe",
+   "year": 1963,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1969-volkswagen-volkswagen-class-5-1600-baja-bug",
+   "make": "Volkswagen",
+   "model": "Volkswagen Class 5/1600 Baja Bug",
+   "year": 1969,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1982-volkswagen-volkswagen-pickup-lx",
+   "make": "Volkswagen",
+   "model": "Volkswagen Pickup LX",
+   "year": 1982,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1983-volkswagen-volkswagen-golf-gti",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf GTI",
+   "year": 1983,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1992-volkswagen-volkswagen-golf-gti-16v-mk2",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf GTI 16V Mk2",
+   "year": 1992,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1995-volkswagen-volkswagen-corrado-vr6",
+   "make": "Volkswagen",
+   "model": "Volkswagen Corrado VR6",
+   "year": 1995,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2010-volkswagen-volkswagen-golf-r",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf R",
+   "year": 2010,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2011-volkswagen-volkswagen-scirocco-r",
+   "make": "Volkswagen",
+   "model": "Volkswagen Scirocco R",
+   "year": 2011,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2014-volkswagen-volkswagen-golf-r",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf R",
+   "year": 2014,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2017-volkswagen-volkswagen-34-volkswagen-andretti-rallycross-beetle",
+   "make": "Volkswagen",
+   "model": "Volkswagen #34 Volkswagen Andretti Rallycross Beetle",
+   "year": 2017,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2021-volkswagen-volkswagen-golf-r",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf R",
+   "year": 2021,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-volkswagen-volkswagen-golf-r",
+   "make": "Volkswagen",
+   "model": "Volkswagen Golf R",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "1983-volvo-volvo-242-turbo-evolution",
+   "make": "Volvo",
+   "model": "Volvo 242 Turbo Evolution",
+   "year": 1983,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-wuling-wuling-sunshine-s",
+   "make": "Wuling",
+   "model": "Wuling Sunshine S",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2013-wuling-wuling-sunshine-s-forza-edition",
+   "make": "Wuling",
+   "model": "Wuling Sunshine S Forza Edition",
+   "year": 2013,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2022-wuling-wuling-hongguang-mini-ev-macaron",
+   "make": "Wuling",
+   "model": "Wuling Hongguang Mini EV Macaron",
+   "year": 2022,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  },
+  {
+   "id": "2019-zenvo-zenvo-tsr-s",
+   "make": "Zenvo",
+   "model": "Zenvo TSR-S",
+   "year": 2019,
+   "autoshow": null,
+   "history": [],
+   "owned": {
+    "p1": false,
+    "p2": false
+   },
+   "source": "claude",
+   "verified": false,
+   "verifiedBy": null,
+   "notes": ""
+  }
+ ]
+}
