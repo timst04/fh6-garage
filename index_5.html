@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Horizon Garage · FH6 Sammlung</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#101318; --panel:#171c24; --panel2:#1d232e; --line:#2a3140;
+  --ink:#ece9df; --muted:#8e95a5;
+  --gold:#d9a441; --gold-dim:#8a6a2c;
+  --aka:#d15550; --ao:#6f9bd8; --ok:#7fae83;
+  --r:10px;
+  --fd:'Rajdhani',sans-serif; --fb:'Inter',sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--fb);font-size:14px;line-height:1.45;
+  background-image:linear-gradient(180deg,#141922 0%,var(--bg) 320px)}
+button{font-family:inherit;cursor:pointer}
+input,select,textarea{font-family:inherit;font-size:14px;background:var(--panel2);color:var(--ink);
+  border:1px solid var(--line);border-radius:8px;padding:7px 10px;outline:none}
+input:focus,select:focus,textarea:focus{border-color:var(--gold)}
+input[type=checkbox]{accent-color:var(--gold);width:17px;height:17px;cursor:pointer}
+::placeholder{color:#5d6474}
+
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px 80px}
+
+/* ---------- Kopf ---------- */
+header{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;padding:22px 0 14px;flex-wrap:wrap}
+.brand .eyebrow{font-family:var(--fd);font-weight:600;letter-spacing:.22em;text-transform:uppercase;font-size:11px;color:var(--gold)}
+.brand h1{font-family:var(--fd);font-weight:700;font-size:30px;letter-spacing:.04em;line-height:1.05}
+.brand h1 span{color:var(--muted);font-weight:500}
+.headbtns{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:8px;
+  padding:8px 14px;font-family:var(--fd);font-weight:600;letter-spacing:.06em;font-size:14px;text-transform:uppercase}
+.btn:hover{border-color:var(--gold)}
+.btn.primary{background:var(--gold);border-color:var(--gold);color:#171207}
+.btn.primary:disabled{background:var(--gold-dim);border-color:var(--gold-dim);color:#2b230f;cursor:default}
+.btn.danger{color:var(--aka);border-color:var(--aka)}
+.btn.small{padding:4px 10px;font-size:12px}
+.whoami{font-family:var(--fd);font-weight:600;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.whoami b{color:var(--gold)}
+
+/* ---------- Tank-Anzeige (Signatur) ---------- */
+.gauges{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);padding:16px 18px;display:grid;gap:14px}
+.gauge{display:grid;grid-template-columns:110px 1fr 120px;gap:14px;align-items:center}
+.gauge .who{font-family:var(--fd);font-weight:700;font-size:17px;letter-spacing:.06em;text-transform:uppercase}
+.gauge .who .dot{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px;transform:translateY(-1px)}
+.track{position:relative;height:16px;border-radius:4px;background:#11151d;border:1px solid var(--line);overflow:hidden}
+.track .ticks{position:absolute;inset:0;background:repeating-linear-gradient(90deg,transparent 0 calc(10% - 1px),#2a3140 calc(10% - 1px) 10%)}
+.track .fill{position:absolute;inset:0 auto 0 0;width:0%;transition:width .5s cubic-bezier(.2,.8,.2,1)}
+.g1 .fill{background:linear-gradient(90deg,#7a5a1f,var(--gold))}
+.g2 .fill{background:linear-gradient(90deg,#324a72,var(--ao))}
+.gauge .num{font-family:var(--fd);font-weight:700;font-size:20px;text-align:right;font-variant-numeric:tabular-nums}
+.gauge .num small{color:var(--muted);font-size:13px;font-weight:600}
+.gaugefoot{display:flex;justify-content:space-between;color:var(--muted);font-size:12px;flex-wrap:wrap;gap:6px}
+
+/* ---------- Werkzeugleiste ---------- */
+.tools{display:flex;gap:8px;margin:16px 0 10px;flex-wrap:wrap;align-items:center}
+.tools input[type=search]{flex:1;min-width:180px}
+.count{color:var(--muted);font-size:12px;margin-left:auto}
+
+/* ---------- Tabelle ---------- */
+table{width:100%;border-collapse:collapse;background:var(--panel);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+thead th{font-family:var(--fd);font-weight:600;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);
+  text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);background:var(--panel2)}
+tbody td{padding:9px 12px;border-bottom:1px solid #1f2530;vertical-align:middle}
+tbody tr.car:hover{background:#1a202b}
+tbody tr:last-child td{border-bottom:none}
+.makehead td{font-family:var(--fd);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:13px;
+  color:var(--gold);background:#141924;border-top:1px solid var(--line);padding:7px 12px}
+.carname{font-weight:500}
+.carname .yr{color:var(--muted);font-variant-numeric:tabular-nums;margin-right:7px}
+.badge{display:inline-block;font-family:var(--fd);font-weight:600;font-size:11px;letter-spacing:.06em;border-radius:5px;
+  padding:1px 7px;margin-left:8px;vertical-align:1px;text-transform:uppercase}
+.badge.claude{color:#b9a8d9;border:1px solid #4a4162}
+.badge.user{color:var(--ao);border:1px solid #3a4c68}
+.badge.verified{color:var(--ok);border:1px solid #3c5a44}
+.price{font-family:var(--fd);font-weight:600;font-size:15px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.price.none{color:#525a6b;font-weight:500}
+.trend{font-size:12px;margin-left:5px}
+.trend.up{color:var(--ok)} .trend.down{color:var(--aka)}
+.owncell{text-align:center}
+.expander{background:none;border:none;color:var(--muted);font-size:15px;padding:4px 8px}
+.expander:hover{color:var(--gold)}
+tr.detail>td{background:#141822;padding:14px 16px}
+
+/* ---------- Detailbereich ---------- */
+.detail-grid{display:grid;grid-template-columns:1fr 320px;gap:20px}
+.hist h4,.addform h4{font-family:var(--fd);font-weight:600;letter-spacing:.12em;text-transform:uppercase;font-size:12px;color:var(--muted);margin-bottom:8px}
+.hist table{border:none;background:transparent}
+.hist td,.hist th{padding:4px 8px;font-size:13px;border-bottom:1px solid #1f2530}
+.hist .del{background:none;border:none;color:#5d6474;font-size:13px}
+.hist .del:hover{color:var(--aka)}
+.addform{display:grid;gap:8px;align-content:start}
+.addform .row{display:flex;gap:8px}
+.addform .row>*{flex:1}
+.spark{display:block}
+.meta-line{color:var(--muted);font-size:12px;margin-top:10px}
+.notes{width:100%;min-height:40px;resize:vertical;margin-top:8px}
+
+/* ---------- Modale ---------- */
+dialog{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:12px;
+  max-width:480px;width:calc(100% - 32px);padding:22px}
+dialog::backdrop{background:rgba(6,8,12,.7)}
+dialog h2{font-family:var(--fd);letter-spacing:.06em;font-size:20px;margin-bottom:4px;text-transform:uppercase}
+dialog p.hint{color:var(--muted);font-size:13px;margin-bottom:14px}
+.field{display:grid;gap:4px;margin-bottom:10px}
+.field label{font-family:var(--fd);font-weight:600;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.dlgbtns{display:flex;gap:8px;justify-content:flex-end;margin-top:14px}
+.tokenhint{font-size:12px;color:var(--muted);background:#141822;border:1px solid var(--line);border-radius:8px;padding:8px 10px;margin-bottom:10px}
+.tokenhint a{color:var(--gold)}
+
+/* ---------- Status ---------- */
+#toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--panel2);border:1px solid var(--line);
+  border-radius:9px;padding:10px 18px;font-family:var(--fd);font-weight:600;letter-spacing:.05em;display:none;z-index:50}
+#toast.ok{border-color:var(--ok);color:var(--ok)}
+#toast.err{border-color:var(--aka);color:var(--aka)}
+.loading{padding:60px 0;text-align:center;color:var(--muted);font-family:var(--fd);letter-spacing:.15em;text-transform:uppercase}
+
+/* ---------- Mobil ---------- */
+@media (max-width:760px){
+  .gauge{grid-template-columns:80px 1fr 90px}
+  .detail-grid{grid-template-columns:1fr}
+  thead .hide-m,tbody .hide-m{display:none}
+  .brand h1{font-size:24px}
+}
+@media (prefers-reduced-motion:reduce){ .track .fill{transition:none} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="brand">
+    <div class="eyebrow">Forza Horizon 6 · Japan</div>
+    <h1>Horizon <span>Garage</span></h1>
+  </div>
+  <div class="headbtns">
+    <span class="whoami" id="whoami"></span>
+    <button class="btn" id="btnReload" title="Neu laden">↻</button>
+    <button class="btn" id="btnSettings">Setup</button>
+    <button class="btn primary" id="btnSave" disabled>Speichern</button>
+  </div>
+</header>
+
+<section class="gauges" id="gauges" hidden>
+  <div class="gauge g1">
+    <div class="who"><span class="dot" style="background:var(--gold)"></span><span id="g1name"></span></div>
+    <div class="track"><div class="ticks"></div><div class="fill" id="g1fill"></div></div>
+    <div class="num"><span id="g1num">0</span> <small id="g1pct"></small></div>
+  </div>
+  <div class="gauge g2">
+    <div class="who"><span class="dot" style="background:var(--ao)"></span><span id="g2name"></span></div>
+    <div class="track"><div class="ticks"></div><div class="fill" id="g2fill"></div></div>
+    <div class="num"><span id="g2num">0</span> <small id="g2pct"></small></div>
+  </div>
+  <div class="gaugefoot">
+    <span id="totalline"></span>
+    <span id="sourceline"></span>
+  </div>
+</section>
+
+<div class="tools" id="tools" hidden>
+  <input type="search" id="q" placeholder="Suchen … (z. B. Skyline)">
+  <select id="fMake"><option value="">Alle Hersteller</option></select>
+  <select id="fStatus">
+    <option value="">Alle Autos</option>
+    <option value="p1miss">Fehlt __P1__</option>
+    <option value="p2miss">Fehlt __P2__</option>
+    <option value="bothmiss">Fehlt beiden</option>
+    <option value="bothown">Beide haben</option>
+  </select>
+  <select id="fSource">
+    <option value="">Jede Quelle</option>
+    <option value="claude">Vorbefüllt (unbestätigt)</option>
+    <option value="checked">Bestätigt / von euch</option>
+  </select>
+  <button class="btn" id="btnAdd">+ Auto</button>
+  <button class="btn" id="btnCsv">CSV</button>
+  <span class="count" id="count"></span>
+</div>
+
+<div id="listArea"><div class="loading" id="loadmsg">Setup nötig — oben rechts auf „Setup" klicken</div></div>
+
+</div><!-- /wrap -->
+
+<dialog id="dlgSettings">
+  <h2>Setup</h2>
+  <p class="hint">Die Daten liegen als <code>data/cars.json</code> in eurem GitHub-Repo. Zum Speichern braucht jeder von euch ein eigenes Token — es bleibt nur in diesem Browser.</p>
+  <div class="field"><label>GitHub-Benutzer / Organisation</label><input id="sOwner" placeholder="z. B. tim-mustermann"></div>
+  <div class="field"><label>Repository</label><input id="sRepo" placeholder="z. B. fh6-garage"></div>
+  <div class="field"><label>Branch</label><input id="sBranch" value="main"></div>
+  <div class="field"><label>Personal Access Token (fine-grained)</label><input id="sToken" type="password" placeholder="github_pat_…"></div>
+  <div class="tokenhint">Token erstellen: GitHub → Settings → Developer settings → <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Fine-grained tokens</a> → nur dieses Repo auswählen → Permission „Contents: Read and write". Details stehen im README.</div>
+  <div class="field"><label>Ich bin</label>
+    <select id="sMe"><option value="p1"></option><option value="p2"></option></select>
+  </div>
+  <div class="field"><label>Name Spieler 1</label><input id="sP1"></div>
+  <div class="field"><label>Name Spieler 2</label><input id="sP2"></div>
+  <div class="dlgbtns">
+    <button class="btn" id="sCancel">Abbrechen</button>
+    <button class="btn primary" id="sSave">Übernehmen</button>
+  </div>
+</dialog>
+
+<dialog id="dlgAdd">
+  <h2>Auto hinzufügen</h2>
+  <p class="hint">Wird als eure eigene Eintragung markiert.</p>
+  <div class="field"><label>Hersteller</label><input id="aMake" list="makelist"><datalist id="makelist"></datalist></div>
+  <div class="field"><label>Modell</label><input id="aModel"></div>
+  <div class="field"><label>Jahr</label><input id="aYear" type="number" min="1900" max="2600"></div>
+  <div class="field"><label>Autoshow-Preis (CR, optional)</label><input id="aPrice" type="number" min="0" step="1000"></div>
+  <div class="dlgbtns">
+    <button class="btn" id="aCancel">Abbrechen</button>
+    <button class="btn primary" id="aSave">Hinzufügen</button>
+  </div>
+</dialog>
+
+<div id="toast"></div>
+
+<script>
+"use strict";
+/* ================= Konfiguration ================= */
+const CFG_KEY = "fh6garage_cfg";
+const DATA_PATH = "data/cars.json";
+let cfg = JSON.parse(localStorage.getItem(CFG_KEY) || "null") || {owner:"",repo:"",branch:"main",token:"",me:"p1"};
+let data = null;         // Inhalt von cars.json
+let sha = null;          // aktueller Blob-SHA für Commits
+let dirty = new Set();   // geänderte Auto-IDs ("__meta__" für Meta)
+let expanded = new Set();
+
+const $ = id => document.getElementById(id);
+const fmt = n => n==null ? "—" : new Intl.NumberFormat("de-DE").format(n)+" CR";
+const today = () => new Date().toISOString().slice(0,10);
+const esc = s => String(s).replace(/[&<>"']/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+/* ================= GitHub-API ================= */
+function apiUrl(){ return `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${DATA_PATH}?ref=${cfg.branch}`; }
+function headers(json){
+  const h = {"Accept":"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28"};
+  if (cfg.token) h["Authorization"] = "Bearer "+cfg.token;
+  if (json) h["Content-Type"] = "application/json";
+  return h;
+}
+function b64decodeUtf8(b64){
+  const bin = atob(b64.replace(/\n/g,""));
+  const bytes = new Uint8Array(bin.length);
+  for (let i=0;i<bin.length;i++) bytes[i] = bin.charCodeAt(i);
+  return new TextDecoder().decode(bytes);
+}
+function b64encodeUtf8(str){
+  const bytes = new TextEncoder().encode(str);
+  let bin = "";
+  for (let i=0;i<bytes.length;i+=0x8000) bin += String.fromCharCode.apply(null, bytes.subarray(i,i+0x8000));
+  return btoa(bin);
+}
+async function loadData(){
+  if (!cfg.owner || !cfg.repo){ $("loadmsg").textContent = "Setup nötig — oben rechts auf „Setup“ klicken"; return; }
+  $("loadmsg") && ($("loadmsg").textContent = "Lade Daten …");
+  try{
+    const r = await fetch(apiUrl(), {headers: headers(false), cache:"no-store"});
+    if (r.status===404) throw new Error("cars.json nicht gefunden — liegt die Datei unter data/cars.json im Repo?");
+    if (r.status===401 || r.status===403) throw new Error("Kein Zugriff — Token prüfen (oder Repo-Name falsch).");
+    if (!r.ok) throw new Error("GitHub antwortet mit "+r.status);
+    const j = await r.json();
+    sha = j.sha;
+    data = JSON.parse(b64decodeUtf8(j.content));
+    dirty.clear(); expanded.clear();
+    afterLoad();
+    toast("Geladen: "+data.cars.length+" Autos","ok");
+  }catch(e){
+    $("listArea").innerHTML = `<div class="loading">${esc(e.message)}</div>`;
+  }
+}
+async function saveData(retry){
+  if (!cfg.token){ toast("Zum Speichern Token im Setup hinterlegen","err"); return; }
+  const me = playerName(cfg.me);
+  const body = {
+    message: `${me}: ${dirty.size} Änderung(en) via Horizon Garage`,
+    content: b64encodeUtf8(JSON.stringify(data, null, 1)),
+    branch: cfg.branch, sha
+  };
+  $("btnSave").disabled = true; $("btnSave").textContent = "Speichert …";
+  try{
+    const r = await fetch(apiUrl().split("?")[0], {method:"PUT", headers:headers(true), body:JSON.stringify(body)});
+    if (r.status===409 && !retry){         // jemand anderes hat zwischendurch gespeichert → mergen
+      await mergeRemote(); return saveData(true);
+    }
+    if (!r.ok){ const t = await r.text(); throw new Error("Speichern fehlgeschlagen ("+r.status+"): "+t.slice(0,140)); }
+    const j = await r.json();
+    sha = j.content.sha;
+    dirty.clear(); updateSaveBtn();
+    toast("Gespeichert ✓","ok");
+  }catch(e){ toast(e.message,"err"); updateSaveBtn(); }
+}
+async function mergeRemote(){
+  const r = await fetch(apiUrl(), {headers:headers(false), cache:"no-store"});
+  const j = await r.json();
+  const remote = JSON.parse(b64decodeUtf8(j.content));
+  sha = j.sha;
+  const localById = Object.fromEntries(data.cars.map(c=>[c.id,c]));
+  // Basis: Remote-Stand; eigene geänderte/neue Autos darüberlegen
+  const merged = remote.cars.map(c => dirty.has(c.id) && localById[c.id] ? localById[c.id] : c);
+  const remoteIds = new Set(remote.cars.map(c=>c.id));
+  for (const c of data.cars) if (!remoteIds.has(c.id)) merged.push(c);
+  if (dirty.has("__meta__")) remote.meta = data.meta;
+  data = remote; data.cars = merged;
+  toast("Änderungen von "+otherName()+" übernommen, speichere erneut …","ok");
+}
+
+/* ================= Zustand & Helfer ================= */
+function playerName(p){ return (data && data.meta.players[p]) || (p==="p1"?"Spieler 1":"Spieler 2"); }
+function otherName(){ return playerName(cfg.me==="p1"?"p2":"p1"); }
+function markDirty(id){ dirty.add(id); updateSaveBtn(); }
+function updateSaveBtn(){
+  const b = $("btnSave");
+  b.disabled = dirty.size===0;
+  b.textContent = dirty.size ? `Speichern (${dirty.size})` : "Speichern";
+}
+function touch(car){                       // Auto als "von euch bestätigt" markieren
+  if (!car.verified){ car.verified = true; car.verifiedBy = playerName(cfg.me); }
+}
+function lastAuction(car){
+  const a = car.history.filter(h=>h.type==="auction");
+  return a.length ? a[a.length-1] : null;
+}
+function prevAuction(car){
+  const a = car.history.filter(h=>h.type==="auction");
+  return a.length>1 ? a[a.length-2] : null;
+}
+
+/* ================= Rendering ================= */
+function afterLoad(){
+  $("gauges").hidden = false; $("tools").hidden = false;
+  // Spielernamen in Status-Filter einsetzen
+  const sel = $("fStatus");
+  sel.options[1].textContent = "Fehlt "+playerName("p1");
+  sel.options[2].textContent = "Fehlt "+playerName("p2");
+  // Herstellerfilter
+  const makes = [...new Set(data.cars.map(c=>c.make))].sort((a,b)=>a.localeCompare(b,"de"));
+  $("fMake").innerHTML = '<option value="">Alle Hersteller</option>'+makes.map(m=>`<option>${esc(m)}</option>`).join("");
+  $("makelist").innerHTML = makes.map(m=>`<option value="${esc(m)}">`).join("");
+  $("whoami").innerHTML = "Angemeldet als <b>"+esc(playerName(cfg.me))+"</b>";
+  render();
+}
+function filteredCars(){
+  const q = $("q").value.trim().toLowerCase();
+  const fm = $("fMake").value, fs = $("fStatus").value, fq = $("fSource").value;
+  return data.cars.filter(c=>{
+    if (fm && c.make!==fm) return false;
+    if (q && !(`${c.year} ${c.make} ${c.model}`.toLowerCase().includes(q))) return false;
+    if (fs==="p1miss" && c.owned.p1) return false;
+    if (fs==="p2miss" && c.owned.p2) return false;
+    if (fs==="bothmiss" && (c.owned.p1||c.owned.p2)) return false;
+    if (fs==="bothown" && !(c.owned.p1&&c.owned.p2)) return false;
+    if (fq==="claude" && (c.source!=="claude"||c.verified)) return false;
+    if (fq==="checked" && c.source==="claude" && !c.verified) return false;
+    return true;
+  }).sort((a,b)=> a.make.localeCompare(b.make,"de") || a.year-b.year || a.model.localeCompare(b.model,"de"));
+}
+function sparkline(car){
+  const pts = car.history.filter(h=>h.type==="auction").map(h=>h.value);
+  if (pts.length<2) return "";
+  const w=90,h=24,min=Math.min(...pts),max=Math.max(...pts),span=(max-min)||1;
+  const step=w/(pts.length-1);
+  const d=pts.map((v,i)=>`${i?"L":"M"}${(i*step).toFixed(1)},${(h-3-(v-min)/span*(h-6)).toFixed(1)}`).join(" ");
+  const up = pts[pts.length-1]>=pts[0];
+  return `<svg class="spark" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true">
+    <path d="${d}" fill="none" stroke="${up?"var(--ok)":"var(--aka)"}" stroke-width="1.6"/></svg>`;
+}
+function badge(car){
+  if (car.source==="user") return `<span class="badge user">von euch</span>`;
+  if (car.verified) return `<span class="badge verified">✓ ${esc(car.verifiedBy||"")}</span>`;
+  return `<span class="badge claude" title="Vorbefüllt aus Community-Liste, noch nicht von euch geprüft">Claude</span>`;
+}
+function render(){
+  const cars = filteredCars();
+  updateGauges();
+  $("count").textContent = cars.length+" von "+data.cars.length;
+  const p1=esc(playerName("p1")), p2=esc(playerName("p2"));
+  let html = `<table><thead><tr>
+      <th>Auto</th><th class="owncell">${p1}</th><th class="owncell">${p2}</th>
+      <th>Autoshow</th><th>Auktion (zuletzt)</th><th class="hide-m">Verlauf</th><th></th>
+    </tr></thead><tbody>`;
+  let lastMake = null;
+  for (const c of cars){
+    if (c.make!==lastMake){ html += `<tr class="makehead"><td colspan="7">${esc(c.make)}</td></tr>`; lastMake=c.make; }
+    const la = lastAuction(c), pa = prevAuction(c);
+    let trend = "";
+    if (la && pa) trend = la.value>pa.value ? `<span class="trend up">▲</span>` : la.value<pa.value ? `<span class="trend down">▼</span>` : "";
+    html += `<tr class="car" data-id="${c.id}">
+      <td class="carname"><span class="yr">${c.year}</span>${esc(c.model)}${badge(c)}</td>
+      <td class="owncell"><input type="checkbox" data-own="p1" ${c.owned.p1?"checked":""} aria-label="${p1} besitzt"></td>
+      <td class="owncell"><input type="checkbox" data-own="p2" ${c.owned.p2?"checked":""} aria-label="${p2} besitzt"></td>
+      <td><span class="price ${c.autoshow==null?"none":""}">${fmt(c.autoshow)}</span></td>
+      <td><span class="price ${la?"":"none"}">${la?fmt(la.value):"—"}</span>${trend}</td>
+      <td class="hide-m">${sparkline(c)}</td>
+      <td><button class="expander" data-x="${c.id}" aria-label="Details">${expanded.has(c.id)?"▴":"▾"}</button></td>
+    </tr>`;
+    if (expanded.has(c.id)) html += detailRow(c);
+  }
+  html += "</tbody></table>";
+  if (!cars.length) html = `<div class="loading">Kein Treffer — Filter anpassen</div>`;
+  $("listArea").innerHTML = html;
+}
+function detailRow(c){
+  const rows = c.history.map((h,i)=>`<tr>
+      <td>${esc(h.date)}</td><td>${h.type==="auction"?"Auktion":"Autoshow"}</td>
+      <td class="price">${fmt(h.value)}</td><td>${esc(h.by||"")}</td>
+      <td><button class="del" data-delh="${c.id}|${i}" aria-label="Eintrag löschen">✕</button></td>
+    </tr>`).join("");
+  return `<tr class="detail"><td colspan="7"><div class="detail-grid">
+    <div class="hist">
+      <h4>Preishistorie</h4>
+      ${c.history.length?`<table><thead><tr><th>Datum</th><th>Typ</th><th>Wert</th><th>Von</th><th></th></tr></thead><tbody>${rows}</tbody></table>`
+        :`<span style="color:var(--muted)">Noch keine Einträge — rechts den ersten Preis erfassen.</span>`}
+      <textarea class="notes" data-notes="${c.id}" placeholder="Notizen (z. B. Fundort, Wheelspin, Barn Find …)">${esc(c.notes||"")}</textarea>
+      <div class="meta-line">Quelle: ${c.source==="claude"?"vorbefüllt (Claude, unverifizierte Community-Liste)":"von euch angelegt"}${c.verified?` · bestätigt von ${esc(c.verifiedBy)}`:""}</div>
+    </div>
+    <div class="addform">
+      <h4>Preis eintragen</h4>
+      <div class="row">
+        <select data-ntype="${c.id}"><option value="auction">Auktion</option><option value="autoshow">Autoshow</option></select>
+        <input type="date" data-ndate="${c.id}" value="${today()}">
+      </div>
+      <input type="number" data-nval="${c.id}" min="0" step="1000" placeholder="Wert in CR">
+      <button class="btn small" data-addh="${c.id}">Eintragen</button>
+      <button class="btn small danger" data-delcar="${c.id}">Auto entfernen</button>
+    </div>
+  </div></td></tr>`;
+}
+function updateGauges(){
+  const total = data.cars.length;
+  const n1 = data.cars.filter(c=>c.owned.p1).length;
+  const n2 = data.cars.filter(c=>c.owned.p2).length;
+  $("g1name").textContent = playerName("p1");
+  $("g2name").textContent = playerName("p2");
+  $("g1num").textContent = n1+" / "+total; $("g2num").textContent = n2+" / "+total;
+  $("g1pct").textContent = total?Math.round(n1/total*100)+"%":""; $("g2pct").textContent = total?Math.round(n2/total*100)+"%":"";
+  $("g1fill").style.width = total?(n1/total*100)+"%":"0"; $("g2fill").style.width = total?(n2/total*100)+"%":"0";
+  const unchecked = data.cars.filter(c=>c.source==="claude"&&!c.verified).length;
+  $("totalline").textContent = total+" Autos in der Liste";
+  $("sourceline").textContent = unchecked?unchecked+" davon vorbefüllt & noch unbestätigt":"Alle Einträge bestätigt";
+}
+
+/* ================= Events ================= */
+$("listArea").addEventListener("click", e=>{
+  const x = e.target.closest("[data-x]");
+  if (x){ const id=x.dataset.x; expanded.has(id)?expanded.delete(id):expanded.add(id); render(); return; }
+  const ah = e.target.closest("[data-addh]");
+  if (ah){
+    const id = ah.dataset.addh, c = data.cars.find(c=>c.id===id);
+    const val = parseInt(document.querySelector(`[data-nval="${id}"]`).value,10);
+    if (!val && val!==0){ toast("Wert fehlt","err"); return; }
+    const type = document.querySelector(`[data-ntype="${id}"]`).value;
+    const date = document.querySelector(`[data-ndate="${id}"]`).value || today();
+    c.history.push({date, type, value:val, by:playerName(cfg.me)});
+    c.history.sort((a,b)=>a.date.localeCompare(b.date));
+    if (type==="autoshow") c.autoshow = val;
+    touch(c); markDirty(id); render(); return;
+  }
+  const dh = e.target.closest("[data-delh]");
+  if (dh){
+    const [id,i] = dh.dataset.delh.split("|");
+    const c = data.cars.find(c=>c.id===id);
+    c.history.splice(+i,1);
+    const la = c.history.filter(h=>h.type==="autoshow").pop();
+    c.autoshow = la ? la.value : null;
+    touch(c); markDirty(id); render(); return;
+  }
+  const dc = e.target.closest("[data-delcar]");
+  if (dc){
+    const id = dc.dataset.delcar, c = data.cars.find(c=>c.id===id);
+    if (confirm(`„${c.year} ${c.make} ${c.model}" wirklich aus der Liste entfernen?`)){
+      data.cars = data.cars.filter(x=>x.id!==id);
+      expanded.delete(id); markDirty(id); render();
+    }
+    return;
+  }
+});
+$("listArea").addEventListener("change", e=>{
+  const own = e.target.closest("[data-own]");
+  if (own){
+    const id = own.closest("tr").dataset.id, c = data.cars.find(c=>c.id===id);
+    c.owned[own.dataset.own] = own.checked;
+    touch(c); markDirty(id); updateGauges(); updateSaveBtn(); return;
+  }
+  const nt = e.target.closest("[data-notes]");
+  if (nt){
+    const c = data.cars.find(c=>c.id===nt.dataset.notes);
+    c.notes = nt.value; touch(c); markDirty(c.id); return;
+  }
+});
+["q","fMake","fStatus","fSource"].forEach(id=>$(id).addEventListener("input", render));
+$("btnReload").onclick = ()=>{ if (!dirty.size || confirm("Ungespeicherte Änderungen verwerfen?")) loadData(); };
+$("btnSave").onclick = ()=>saveData(false);
+window.addEventListener("beforeunload", e=>{ if (dirty.size){ e.preventDefault(); e.returnValue=""; } });
+
+/* --- Setup-Dialog --- */
+$("btnSettings").onclick = ()=>{
+  $("sOwner").value=cfg.owner; $("sRepo").value=cfg.repo; $("sBranch").value=cfg.branch||"main";
+  $("sToken").value=cfg.token; $("sMe").value=cfg.me;
+  $("sP1").value = data?playerName("p1"):"Tim"; $("sP2").value = data?playerName("p2"):"Kumpel";
+  $("sMe").options[0].textContent = $("sP1").value; $("sMe").options[1].textContent = $("sP2").value;
+  $("dlgSettings").showModal();
+};
+$("sP1").oninput = ()=>{$("sMe").options[0].textContent=$("sP1").value;};
+$("sP2").oninput = ()=>{$("sMe").options[1].textContent=$("sP2").value;};
+$("sCancel").onclick = ()=>$("dlgSettings").close();
+$("sSave").onclick = ()=>{
+  cfg = {owner:$("sOwner").value.trim(), repo:$("sRepo").value.trim(), branch:$("sBranch").value.trim()||"main",
+         token:$("sToken").value.trim(), me:$("sMe").value};
+  localStorage.setItem(CFG_KEY, JSON.stringify(cfg));
+  if (data){
+    const n1=$("sP1").value.trim()||"Spieler 1", n2=$("sP2").value.trim()||"Spieler 2";
+    if (n1!==data.meta.players.p1 || n2!==data.meta.players.p2){
+      data.meta.players = {p1:n1,p2:n2}; markDirty("__meta__");
+    }
+    afterLoad();
+  } else loadData();
+  $("dlgSettings").close();
+};
+
+/* --- Auto hinzufügen --- */
+$("btnAdd").onclick = ()=>{ $("aMake").value="";$("aModel").value="";$("aYear").value="";$("aPrice").value=""; $("dlgAdd").showModal(); };
+$("aCancel").onclick = ()=>$("dlgAdd").close();
+$("aSave").onclick = ()=>{
+  const make=$("aMake").value.trim(), model=$("aModel").value.trim(), year=parseInt($("aYear").value,10);
+  if (!make||!model||!year){ toast("Hersteller, Modell und Jahr angeben","err"); return; }
+  const id = (year+"-"+make+"-"+model).toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"")
+             + (data.cars.some(c=>c.id===(year+"-"+make+"-"+model).toLowerCase().normalize("NFKD").replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"")) ? "-"+Date.now()%1000 : "");
+  const price = $("aPrice").value ? parseInt($("aPrice").value,10) : null;
+  const car = {id, make, model, year, autoshow:price, history:[], owned:{p1:false,p2:false},
+               source:"user", verified:true, verifiedBy:playerName(cfg.me), notes:""};
+  if (price!=null) car.history.push({date:today(), type:"autoshow", value:price, by:playerName(cfg.me)});
+  data.cars.push(car); markDirty(id); $("dlgAdd").close(); render();
+};
+
+/* --- CSV-Export --- */
+$("btnCsv").onclick = ()=>{
+  const p1=playerName("p1"), p2=playerName("p2");
+  const lines = ["Jahr;Hersteller;Modell;"+p1+";"+p2+";Autoshow (CR);Auktion zuletzt (CR);Auktionsdatum;Quelle"];
+  for (const c of filteredCars()){
+    const la = lastAuction(c);
+    lines.push([c.year,c.make,c.model,c.owned.p1?"x":"",c.owned.p2?"x":"",c.autoshow??"",la?la.value:"",la?la.date:"",
+      c.source==="user"?"eigene":(c.verified?"bestätigt":"vorbefüllt")].map(v=>String(v).replace(/;/g,",")).join(";"));
+  }
+  const blob = new Blob(["\ufeff"+lines.join("\r\n")], {type:"text/csv;charset=utf-8"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob); a.download = "fh6-garage.csv"; a.click();
+  URL.revokeObjectURL(a.href);
+};
+
+/* --- Toast --- */
+let toastTimer;
+function toast(msg, cls){
+  const t = $("toast"); t.textContent = msg; t.className = cls||""; t.style.display = "block";
+  clearTimeout(toastTimer); toastTimer = setTimeout(()=>t.style.display="none", 3500);
+}
+
+/* --- Start --- */
+if (cfg.owner && cfg.repo) loadData();
+</script>
+</body>
+</html>
